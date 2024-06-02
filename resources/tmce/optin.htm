@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <title>Insert Opt In Form</title>
+        <script type="text/javascript" src="../../../../../wp-includes/js/tinymce/tiny_mce_popup.js"></script>
+        <script type="text/javascript" src="js/optin.js"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    </head>
+    <body>
+        <form onsubmit="PremiseOptIn.insert(); return false;" action="#">
+            <table width="449">
+                <tr>
+                    <td height="38" colspan="2">
+                        <h2>Insert Opt In Form</h2>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Opt In Code
+                    </td>
+                    <td>
+                    	<textarea id="optincode" name="optincode" rows="10" style="width: 99%;"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td height="26">
+                    </td>
+                    <td height="26">
+                        <input type="button" id="cancel" name="cancel" value="{#cancel}" onClick="tinyMCEPopup.close();"/>
+                        <input type="button" id="insert" name="insert" value="{#insert}" onClick="PremiseOptIn.insert();"/>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>

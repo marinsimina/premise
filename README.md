@@ -1,2 +1,4 @@
-# premise
-premise membership plugin for wordpress
+premise-wp
+==========
+
+Premise Core for WordPress

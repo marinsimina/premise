@@ -1,0 +1,3647 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-31 19:38-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: premise.php:104
+msgid "Landing Pages"
+msgstr ""
+
+#: premise.php:105
+msgid "Landing Page"
+msgstr ""
+
+#: premise.php:106
+msgid "Add New"
+msgstr ""
+
+#: premise.php:107 views/interceptions/post-new.php:3
+msgid "Add New Landing Page"
+msgstr ""
+
+#: premise.php:108
+msgid "Edit Landing Page"
+msgstr ""
+
+#: premise.php:109
+msgid "New Landing Page"
+msgstr ""
+
+#: premise.php:110
+msgid "View Landing Page"
+msgstr ""
+
+#: premise.php:111
+msgid "Search Landing Pages"
+msgstr ""
+
+#: premise.php:112
+msgid "No landing pages found"
+msgstr ""
+
+#: premise.php:113
+msgid "No landing pages found in Trash"
+msgstr ""
+
+#: premise.php:119
+msgid ""
+"Landing pages are designed to increase conversions for your product.  Create "
+"them quickly and easily."
+msgstr ""
+
+#: premise.php:590
+msgid "Invalid MailChimp API key."
+msgstr ""
+
+#: premise.php:613
+msgid "Invalid Constant Contact credentials."
+msgstr ""
+
+#: premise.php:690
+#, php-format
+msgid "Split Test: %s"
+msgstr ""
+
+#: premise.php:882
+msgid "Tab 1"
+msgstr ""
+
+#: premise.php:981
+msgid "Basic Plan"
+msgstr ""
+
+#: premise.php:1001
+msgid "Tweet or Share this page to see the rest of the content."
+msgstr ""
+
+#: lib/class-admin.php:96 views/settings/design.php:40
+#: views/settings/design.php:56
+msgid "Save Settings"
+msgstr ""
+
+#: lib/class-admin.php:97 views/settings/design.php:41
+#: views/settings/design.php:57
+msgid "Reset Settings"
+msgstr ""
+
+#: lib/class-admin.php:98
+msgid "Settings saved."
+msgstr ""
+
+#: lib/class-admin.php:99
+msgid "Settings reset."
+msgstr ""
+
+#: lib/class-admin.php:108
+#, php-format
+msgid ""
+"You cannot use %s to create two menus in the same subclass. Please use "
+"separate subclasses for each menu."
+msgstr ""
+
+#: lib/class-admin.php:382 lib/class-admin.php:391 lib/class-admin.php:498
+#: lib/class-admin.php:515 lib/class-premise.php:485
+msgid "Are you sure you want to reset?"
+msgstr ""
+
+#: lib/class-design-settings.php:13 lib/design-settings.php:950
+msgid "My Style"
+msgstr ""
+
+#: lib/class-design-settings.php:299 lib/class-premise.php:1536
+#: views/settings/design.php:36
+msgid "Default"
+msgstr ""
+
+#: lib/class-meta-boxes.php:21
+msgid "Tab/Panel Settings"
+msgstr ""
+
+#: lib/class-meta-boxes.php:24
+msgid "Opt In Copy"
+msgstr ""
+
+#: lib/class-meta-boxes.php:25
+msgid "Copy Below the Opt In Form"
+msgstr ""
+
+#: lib/class-meta-boxes.php:28
+msgid "Pricing Content"
+msgstr ""
+
+#: lib/class-meta-boxes.php:29
+msgid "Re-order Price Settings"
+msgstr ""
+
+#: lib/class-meta-boxes.php:32
+msgid "Teaser Page"
+msgstr ""
+
+#: lib/class-meta-boxes.php:33
+msgid "Sharing Options"
+msgstr ""
+
+#: lib/class-meta-boxes.php:34
+msgid "After a Share Page"
+msgstr ""
+
+#: lib/class-meta-boxes.php:37
+msgid "Video Box Copy"
+msgstr ""
+
+#: lib/class-meta-boxes.php:38
+msgid "Copy Below the Video Box"
+msgstr ""
+
+#: lib/class-meta-boxes.php:41 views/settings/class-main-settings.php:47
+msgid "Content"
+msgstr ""
+
+#: lib/class-meta-boxes.php:45
+msgid "Landing Page Assistant"
+msgstr ""
+
+#: lib/class-meta-boxes.php:46
+msgid "Premise: Settings For This Page"
+msgstr ""
+
+#: lib/class-meta-boxes.php:49
+msgid "Premise: SEO Options For This Page"
+msgstr ""
+
+#: lib/class-meta-boxes.php:51
+msgid "Premise: Testing For This Page"
+msgstr ""
+
+#: lib/class-premise.php:178
+msgid "Sales Page"
+msgstr ""
+
+#: lib/class-premise.php:178
+msgid "A simple sales page."
+msgstr ""
+
+#: lib/class-premise.php:179
+msgid "Content Landing Page"
+msgstr ""
+
+#: lib/class-premise.php:179
+msgid "Content based landing page."
+msgstr ""
+
+#: lib/class-premise.php:180 lib/class-premise.php:794
+msgid "Pricing"
+msgstr ""
+
+#: lib/class-premise.php:180
+msgid "Pricing table landing page."
+msgstr ""
+
+#: lib/class-premise.php:181 lib/class-premise.php:802
+msgid "Opt In"
+msgstr ""
+
+#: lib/class-premise.php:181
+msgid "Landing page with opt-in form."
+msgstr ""
+
+#: lib/class-premise.php:182 lib/class-premise.php:801
+msgid "Video"
+msgstr ""
+
+#: lib/class-premise.php:182
+msgid "Landing page with video."
+msgstr ""
+
+#: lib/class-premise.php:183
+msgid "Tab Scroller"
+msgstr ""
+
+#: lib/class-premise.php:183
+msgid "Landing page with multiple tabs on content scroller."
+msgstr ""
+
+#: lib/class-premise.php:184
+msgid "Thank You"
+msgstr ""
+
+#: lib/class-premise.php:184
+msgid "Say thanks to your customers after they take action."
+msgstr ""
+
+#: lib/class-premise.php:185 lib/class-premise.php:803
+msgid "Social Share"
+msgstr ""
+
+#: lib/class-premise.php:185
+msgid ""
+"Prompt your customers to share this page before allowing them to have access "
+"to all the content."
+msgstr ""
+
+#: lib/class-premise.php:321
+msgid "Style Settings"
+msgstr ""
+
+#: lib/class-premise.php:323
+msgid "Add Style"
+msgstr ""
+
+#: lib/class-premise.php:325
+msgid "Edit Style"
+msgstr ""
+
+#: lib/class-premise.php:337
+msgid "Button Settings"
+msgstr ""
+
+#: lib/class-premise.php:339 views/misc/plugin-support-row.php:4
+msgid "Report Bug"
+msgstr ""
+
+#: lib/class-premise.php:339
+msgid "Premise Help"
+msgstr ""
+
+#: lib/class-premise.php:351
+msgid "Landing Page Type"
+msgstr ""
+
+#: lib/class-premise.php:474 lib/class-premise.php:574
+msgid "Premise Graphics"
+msgstr ""
+
+#: lib/class-premise.php:474
+msgid "Premise Opt In"
+msgstr ""
+
+#: lib/class-premise.php:474
+msgid "Premise Buttons"
+msgstr ""
+
+#: lib/class-premise.php:485
+msgid "Toggle All"
+msgstr ""
+
+#: lib/class-premise.php:485
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+
+#: lib/class-premise.php:513
+msgid "Education"
+msgstr ""
+
+#: lib/class-premise.php:513
+msgid "Graphics"
+msgstr ""
+
+#: lib/class-premise.php:525
+msgid "Use This Image"
+msgstr ""
+
+#: lib/class-premise.php:665
+msgid "Copy"
+msgstr ""
+
+#: lib/class-premise.php:743
+msgid ""
+"Could not retrieve sample copy for this page.  Please check your Premise API "
+"key."
+msgstr ""
+
+#: lib/class-premise.php:787
+msgid "Global Styles"
+msgstr ""
+
+#: lib/class-premise.php:788
+msgid "Global Links"
+msgstr ""
+
+#: lib/class-premise.php:789
+msgid "Wrap (content area)"
+msgstr ""
+
+#: lib/class-premise.php:790
+msgid "Header"
+msgstr ""
+
+#: lib/class-premise.php:791
+msgid "Main Headline Area"
+msgstr ""
+
+#: lib/class-premise.php:792
+msgid "Blockquotes"
+msgstr ""
+
+#: lib/class-premise.php:793
+msgid "Notice Box"
+msgstr ""
+
+#: lib/class-premise.php:796
+msgid "In-Page Headlines"
+msgstr ""
+
+#: lib/class-premise.php:797
+msgid "Footer"
+msgstr ""
+
+#: lib/class-premise.php:798
+msgid "Input Boxes"
+msgstr ""
+
+#: lib/class-premise.php:799
+msgid "Submit Buttons"
+msgstr ""
+
+#: lib/class-premise.php:800
+msgid "Content Scroller"
+msgstr ""
+
+#: lib/class-premise.php:804
+msgid "General Settings"
+msgstr ""
+
+#: lib/class-premise.php:856
+msgid " Copy"
+msgstr ""
+
+#: lib/class-premise.php:1103
+msgid ""
+"Invalid Aweber authorization code.  Please make sure you entered it "
+"correctly."
+msgstr ""
+
+#: lib/class-premise.php:1115
+msgid "Unable to connect to Aweber account.  Please try again."
+msgstr ""
+
+#: lib/class-premise.php:1451
+msgid "Unknown"
+msgstr ""
+
+#: lib/class-premise.php:1652
+#, php-format
+msgid "<h2>To use Premise %s you need to update to WordPress 3.3.</h2>"
+msgstr ""
+
+#: lib/class-shortcode.php:163
+msgid ""
+"Almost finished... We need to confirm your email address. To complete the "
+"subscription process, please click the link in the email we just sent you."
+msgstr ""
+
+#: lib/class-shortcode.php:165
+msgid "You have been subscribed to the list."
+msgstr ""
+
+#: lib/class-shortcode.php:209
+msgid "Next"
+msgstr ""
+
+#: lib/class-shortcode.php:223
+msgid "Previous"
+msgstr ""
+
+#: lib/class-shortcode.php:256 views/thickbox/optin.php:132
+msgid "Sign Up"
+msgstr ""
+
+#: lib/class-shortcode.php:348
+msgid "Street Address"
+msgstr ""
+
+#: lib/class-shortcode.php:349
+msgid "Address Line 2"
+msgstr ""
+
+#: lib/class-shortcode.php:350
+msgid "City"
+msgstr ""
+
+#: lib/class-shortcode.php:351
+msgid "State/Province/Region"
+msgstr ""
+
+#: lib/class-shortcode.php:352
+msgid "Postal / Zip Code"
+msgstr ""
+
+#: lib/class-shortcode.php:353
+#: member-access/includes/views/template-tags.php:423
+msgid "Country"
+msgstr ""
+
+#: lib/design-settings-support.php:171
+msgid "Note"
+msgstr ""
+
+#: lib/design-settings.php:606
+msgid "Style Title"
+msgstr ""
+
+#: lib/design-settings.php:617
+msgid "All fonts listed are considered web-safe"
+msgstr ""
+
+#: lib/design-settings.php:651
+msgid "Enter <code>0 1px 1px #999999</code> for a subtle background shadow."
+msgstr ""
+
+#: lib/design-settings.php:682
+msgid "The following apply to the landing page headline."
+msgstr ""
+
+#: lib/design-settings.php:690
+msgid "The following apply to the landing page sub-headline."
+msgstr ""
+
+#: lib/design-settings.php:738
+msgid "The following apply to the containers for each pricing tier."
+msgstr ""
+
+#: lib/design-settings.php:745
+msgid "The following apply to the header area for each pricing tier."
+msgstr ""
+
+#: lib/design-settings.php:756
+msgid "The following apply to the feature area for each pricing tier."
+msgstr ""
+
+#: lib/design-settings.php:762
+msgid "The following apply to the call to action links for each pricing tier."
+msgstr ""
+
+#: lib/design-settings.php:939
+#, php-format
+msgid ""
+"Use the new <a href=\"%s\">Custom Code Editor</a> to add/edit custom CSS and "
+"functions. "
+msgstr ""
+
+#: lib/design-settings.php:941
+msgid "Check this box for a live site, uncheck for testing."
+msgstr ""
+
+#: lib/design-settings.php:945
+msgid "Export Premise Settings"
+msgstr ""
+
+#: lib/import.php:60
+msgid "Imported Style"
+msgstr ""
+
+#: lib/import.php:61
+msgid "Imported Styles"
+msgstr ""
+
+#: lib/premise-support.php:11
+msgid "WordPress Version"
+msgstr ""
+
+#: lib/premise-support.php:12
+msgid "PHP Version"
+msgstr ""
+
+#: lib/premise-support.php:13
+msgid "Premise Version"
+msgstr ""
+
+#: lib/premise-support.php:14
+msgid "Memory Limit"
+msgstr ""
+
+#: lib/premise-support.php:15
+msgid "Membership Enabled"
+msgstr ""
+
+#: lib/premise-support.php:16
+msgid "Web Server"
+msgstr ""
+
+#: lib/premise-support.php:17
+msgid "Server IP"
+msgstr ""
+
+#: lib/premise-support.php:18
+msgid "Installed Themes"
+msgstr ""
+
+#: lib/premise-support.php:19
+msgid "Activated Theme"
+msgstr ""
+
+#: lib/premise-support.php:20
+msgid "Installed Plugins"
+msgstr ""
+
+#: lib/premise-support.php:21
+msgid "Activated Plugins"
+msgstr ""
+
+#: lib/premise-support.php:50
+msgid "Premise Support Message"
+msgstr ""
+
+#: lib/premise-support.php:94
+msgid "Could not determine server software."
+msgstr ""
+
+#: lib/premise-support.php:102
+msgid "Could not determine server IP."
+msgstr ""
+
+#: lib/premise-support.php:110
+msgid "Yes"
+msgstr ""
+
+#: lib/premise-support.php:112
+msgid "No"
+msgstr ""
+
+#: lib/stylesheets.php:320
+msgid ""
+"This file is auto-generated from the settings page. Any direct edits here "
+"will be lost if the settings page is saved"
+msgstr ""
+
+#: lib/stylesheets.php:361
+msgid ""
+"This file is auto-generated from the style.css, the settings page and custom."
+"css. Any direct edits here will be lost if the settings page is saved"
+msgstr ""
+
+#: lib/template-tags.php:428
+msgid "Tweet This"
+msgstr ""
+
+#: lib/template-tags.php:436
+msgid "Share This"
+msgstr ""
+
+#: lib/template-tags.php:446
+msgid "Click here when you have shared this page."
+msgstr ""
+
+#: lib/api/premise-api-education-provider.php:33
+msgid ""
+"The section parameter must be an integer when requesting an advice section."
+msgstr ""
+
+#: lib/api/premise-api-education-provider.php:51
+msgid "The type parameter must be an integer when requesting advice."
+msgstr ""
+
+#: lib/api/premise-api-education-provider.php:75
+msgid "The type parameter must be an integer when requesting sample content."
+msgstr ""
+
+#: lib/api/premise-api-graphics-provider.php:79
+msgid "Image id must be numeric."
+msgstr ""
+
+#: lib/api/premise-api-provider.php:18
+#, php-format
+msgid ""
+"Access denied.  Please <a target=\"_blank\" href=\"%s\">enter your Premise "
+"API key</a> and then attempt your request again."
+msgstr ""
+
+#: lib/api/premise-api-provider.php:32
+msgid ""
+"Access denied when attempting to access a Premise resource.  Please check "
+"your API key."
+msgstr ""
+
+#: lib/cron/recurring-payments.php:67 lib/cron/recurring-payments.php:104
+#: lib/cron/recurring-payments.php:124
+#: member-access/includes/class-orders.php:291
+#: member-access/includes/class-orders.php:481
+#: member-access/includes/functions.php:931
+#: member-access/includes/views/shortcodes.php:410
+msgid "cancel"
+msgstr ""
+
+#: lib/cron/recurring-payments.php:118
+msgid "No subscriptions to renew."
+msgstr ""
+
+#: lib/cron/recurring-payments.php:131
+#, php-format
+msgid "Could not find product on order # %s"
+msgstr ""
+
+#: lib/cron/recurring-payments.php:137
+#, php-format
+msgid "Error on order # %s - %s"
+msgstr ""
+
+#: lib/cron/recurring-payments.php:143
+#, php-format
+msgid "Processed order # %d - %s - %s - Amount %.2f"
+msgstr ""
+
+#: lib/cron/recurring-payments.php:156
+#, php-format
+msgid "Premise scheduled payment settlement (%s)"
+msgstr ""
+
+#: lib/theme/class-custom-code.php:31 lib/theme/class-custom-code.php:32
+msgid "Custom Code"
+msgstr ""
+
+#: lib/theme/class-custom-code.php:39
+msgid "Save Changes"
+msgstr ""
+
+#: lib/theme/class-custom-code.php:40
+msgid "Reset All"
+msgstr ""
+
+#: lib/theme/class-custom-code.php:145
+#, php-format
+msgid ""
+"The %s folder does not exist or is not writeable. Please create it or <a "
+"href=\"http://codex.wordpress.org/Changing_File_Permissions\">change file "
+"permissions</a> to 777."
+msgstr ""
+
+#: lib/theme/class-custom-code.php:147
+#, php-format
+msgid ""
+"The %s folder does not exist or is not writeable. Please contact your "
+"network administrator."
+msgstr ""
+
+#: lib/theme/class-custom-code.php:167
+msgid "Custom CSS"
+msgstr ""
+
+#: lib/theme/class-custom-code.php:168
+msgid "Custom Functions"
+msgstr ""
+
+#: lib/theme/class-custom-code.php:188
+#, php-format
+msgid "<h4>Style: %1$s</h4>"
+msgstr ""
+
+#: lib/theme/class-theme.php:566
+msgid "Please enter your first name"
+msgstr ""
+
+#: lib/theme/class-theme.php:569
+msgid "Please enter your last name"
+msgstr ""
+
+#: lib/theme/class-theme.php:572
+msgid "Please enter your email"
+msgstr ""
+
+#: lib/theme/class-theme.php:574
+msgid "Email address is invalid"
+msgstr ""
+
+#: lib/theme/class-theme.php:585 lib/theme/class-theme.php:640
+msgid "You have been successfully subscribed"
+msgstr ""
+
+#: lib/theme/class-theme.php:609
+#, php-format
+msgid "%s is required"
+msgstr ""
+
+#: lib/theme/class-theme.php:611
+#, php-format
+msgid "%s must be a valid email address"
+msgstr ""
+
+#: lib/theme/class-theme.php:747
+msgid "Unable to subscribe you to the list."
+msgstr ""
+
+#: lib/theme/class-theme.php:789
+msgid "You have already subscribed to this mailing list"
+msgstr ""
+
+#: lib/theme/class-theme.php:809
+msgid "Could not subscribe you to this mailing list"
+msgstr ""
+
+#: member-access/includes/class-authorize-net.php:62
+msgid "Credit Card"
+msgstr ""
+
+#: member-access/includes/class-authorize-net.php:251
+msgid "Invalid response from payment processor"
+msgstr ""
+
+#: member-access/includes/class-authorize-net.php:336
+msgid "Authorize.net Transaction ID"
+msgstr ""
+
+#: member-access/includes/class-authorize-net.php:337
+#: member-access/includes/class-authorize-net.php:375
+msgid "Authorize.net Profile ID"
+msgstr ""
+
+#: member-access/includes/class-authorize-net.php:345
+#: member-access/includes/class-authorize-net.php:378
+msgid "Authorize.net Payment Profile ID"
+msgstr ""
+
+#: member-access/includes/class-authorize-net.php:373
+msgid "Authorize.net"
+msgstr ""
+
+#: member-access/includes/class-authorize-net.php:382
+#: member-access/includes/admin/report.php:246
+#: member-access/includes/admin/report.php:369
+msgid "ID"
+msgstr ""
+
+#: member-access/includes/class-authorize-net.php:382
+#: member-access/includes/views/template-tags.php:391
+msgid "Card Number"
+msgstr ""
+
+#: member-access/includes/class-authorize-net.php:440
+msgid "Card on file"
+msgstr ""
+
+#: member-access/includes/class-aweber-optin-gateway.php:70
+#: views/settings/class-main-settings.php:44
+msgid "AWeber"
+msgstr ""
+
+#: member-access/includes/class-aweber-optin-gateway.php:80
+msgid "No AWeber lists found."
+msgstr ""
+
+#: member-access/includes/class-aweber-optin-gateway.php:85
+msgid "AWeber List"
+msgstr ""
+
+#: member-access/includes/class-aweber-optin-gateway.php:87
+#: member-access/includes/class-mailchimp-optin-gateway.php:79
+#: member-access/includes/class-orders.php:324 views/thickbox/optin.php:44
+#: views/thickbox/optin.php:68 views/thickbox/optin.php:92
+#: views/thickbox/optin.php:116
+msgid "None"
+msgstr ""
+
+#: member-access/includes/class-aweber-optin-gateway.php:138
+#: member-access/includes/class-aweber-optin-gateway.php:143
+#: member-access/includes/class-mailchimp-optin-gateway.php:183
+#: member-access/includes/class-mailchimp-optin-gateway.php:188
+msgid "The account information was not filled out."
+msgstr ""
+
+#: member-access/includes/class-aweber-optin-gateway.php:147
+#: member-access/includes/class-mailchimp-optin-gateway.php:192
+msgid "The passwords do not match."
+msgstr ""
+
+#: member-access/includes/class-aweber-optin-gateway.php:180
+#: member-access/includes/class-mailchimp-optin-gateway.php:224
+msgid "Product information missing"
+msgstr ""
+
+#: member-access/includes/class-aweber-optin-gateway.php:280
+msgid "Error unsubscribing"
+msgstr ""
+
+#: member-access/includes/class-aweber-optin-gateway.php:281
+#, php-format
+msgid ""
+"An error occurred on the Aweber API unsubscribing %s.\n"
+"\n"
+"Error Message: %s\n"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:50
+msgid "Coupons"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:51
+#: member-access/includes/admin/report.php:126
+#: member-access/includes/admin/report.php:262
+#: member-access/includes/admin/report.php:383
+msgid "Coupon"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:52
+#: member-access/includes/class-coupons.php:53
+msgid "Create New Coupon"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:54
+#: member-access/includes/class-coupons.php:55
+msgid "Edit Coupon"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:56
+msgid "New Coupon"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:57
+#: member-access/includes/class-coupons.php:58
+msgid "View Coupon"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:59
+msgid "Search Coupons"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:60
+msgid "No Coupons found"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:61
+msgid "No Coupons found in Trash"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:98
+msgid "Coupon Details"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:99
+#: member-access/includes/class-link-manager.php:104
+#: member-access/includes/class-orders.php:222
+#: member-access/includes/class-orders.php:288
+#: member-access/includes/class-products.php:163
+#: member-access/includes/admin/report.php:253
+#: member-access/includes/admin/report.php:376
+msgid "Status"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:119
+msgid "Discount Type"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:122
+msgid "Percentage"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:125
+msgid "Flat"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:130
+msgid "Eligibility"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:133
+msgid "New Customers"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:136
+msgid "Existing Members"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:144
+msgid "Subscriptions"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:147
+msgid "Apply To Trial Payment"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:150
+msgid "Apply To Subscription Payment"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:156
+#: member-access/includes/class-coupons.php:374
+msgid "Date Range"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:159
+msgid "Start Date/Time:"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:163
+msgid "End Date/Time:"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:175
+msgid "Limit Usage"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:177
+msgid "Maximum Uses:"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:179
+#: member-access/includes/class-products.php:267
+msgid "Leave blank for indefinite"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:183
+msgid "Limit Access"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:186
+msgid "Require Authorization Key"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:189
+msgid "Cookie Lifetime:"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:190
+#: member-access/includes/class-link-manager.php:266
+msgid "Days"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:191
+msgid "Leave blank to expire at end of current visit."
+msgstr ""
+
+#: member-access/includes/class-coupons.php:195
+msgid "Limit Products"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:213
+#: member-access/includes/class-coupons.php:422
+msgid "All Products"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:217
+msgid "Redirect:"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:219
+msgid "Enter the URL you want the coupon link to redirect to."
+msgstr ""
+
+#: member-access/includes/class-coupons.php:222
+msgid "Select From The Products Below:"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:373
+#: member-access/includes/class-orders.php:514
+msgid "Discount"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:375
+#: member-access/includes/class-products.php:74
+msgid "Products"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:395
+#: member-access/includes/class-orders.php:559
+#, php-format
+msgid "%d%%"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:395
+#: member-access/includes/class-orders.php:559
+#, php-format
+msgid "$ %.2f"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:412
+#, php-format
+msgid "From %s<br />"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:415
+#, php-format
+msgid "To %s"
+msgstr ""
+
+#: member-access/includes/class-coupons.php:677
+#: member-access/includes/class-coupons.php:678
+msgid "Coupon updated."
+msgstr ""
+
+#: member-access/includes/class-coupons.php:679
+msgid "Coupon published."
+msgstr ""
+
+#: member-access/includes/class-coupons.php:680
+msgid "Coupon saved."
+msgstr ""
+
+#: member-access/includes/class-express-checkout.php:242
+msgid "Transaction Cancelled."
+msgstr ""
+
+#: member-access/includes/class-express-checkout.php:249
+#: member-access/includes/class-express-checkout.php:363
+msgid "Invalid Transaction."
+msgstr ""
+
+#: member-access/includes/class-express-checkout.php:253
+#: member-access/includes/class-express-checkout.php:367
+msgid "Invalid Transaction Key."
+msgstr ""
+
+#: member-access/includes/class-express-checkout.php:261
+msgid "Amount does not match,"
+msgstr ""
+
+#: member-access/includes/class-express-checkout.php:342
+msgid "Complete Order"
+msgstr ""
+
+#: member-access/includes/class-express-checkout.php:342
+msgid "Complete Order and Create My Account"
+msgstr ""
+
+#: member-access/includes/class-express-checkout.php:524
+msgid "PayPal Transaction ID"
+msgstr ""
+
+#: member-access/includes/class-express-checkout.php:525
+msgid "PayPal Payment Profile ID"
+msgstr ""
+
+#: member-access/includes/class-free-product.php:78
+msgid "Get Now"
+msgstr ""
+
+#: member-access/includes/class-free-product.php:78
+msgid "Create My Account"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:51
+msgid "Links"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:52
+msgid "Link"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:53
+#: member-access/includes/class-link-manager.php:54
+msgid "Create New Link"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:55
+#: member-access/includes/class-link-manager.php:56
+msgid "Edit Link"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:57
+msgid "New Link"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:58
+#: member-access/includes/class-link-manager.php:59
+msgid "View Link"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:60
+msgid "Search Links"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:61
+msgid "No Links found"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:62
+msgid "No Links found in Trash"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:63
+msgid "Link Manager"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:103
+msgid "Link Details"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:131
+msgid ""
+"Additional server configuration is required to protect Links from "
+"unauthorized download."
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:135
+msgid "Add the following block to your Nginx Server configuration"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:145
+#, php-format
+msgid "Add the following to <code>%s</code>"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:168
+#: member-access/includes/class-link-manager.php:369
+msgid "Link URI"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:172
+msgid "Save link to generate URI"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:182
+msgid "File"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:254
+msgid "Upload new file"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:262
+msgid "Delay Access"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:267
+msgid "Delay access to this file by X days after signup."
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:367
+msgid "Filename"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:368
+#: member-access/includes/class-orders.php:515
+#: member-access/includes/class-products.php:123
+#: member-access/includes/class-products.php:125
+#: member-access/includes/class-products.php:510
+#: member-access/includes/members.php:200
+msgid "Access Levels"
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:416
+#: member-access/includes/class-link-manager.php:417
+msgid "Link updated."
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:418
+msgid "Link published."
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:419
+msgid "Link saved."
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:461
+msgid "Not a valid Download ID."
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:499
+msgid "You do not have access to that file."
+msgstr ""
+
+#: member-access/includes/class-link-manager.php:509
+msgid "File not found."
+msgstr ""
+
+#: member-access/includes/class-mailchimp-optin-gateway.php:62
+#: member-access/includes/class-mailchimp-optin-gateway.php:122
+#: views/settings/class-main-settings.php:46
+msgid "MailChimp"
+msgstr ""
+
+#: member-access/includes/class-mailchimp-optin-gateway.php:72
+msgid "No MailChimp lists found."
+msgstr ""
+
+#: member-access/includes/class-mailchimp-optin-gateway.php:77
+msgid "MailChimp List"
+msgstr ""
+
+#: member-access/includes/class-mailchimp-optin-gateway.php:90
+#: views/settings/class-main-settings.php:286
+msgid "Double Opt In"
+msgstr ""
+
+#: member-access/includes/class-mailchimp-optin-gateway.php:92
+msgid "Use Premise Main Setting"
+msgstr ""
+
+#: member-access/includes/class-mailchimp-optin-gateway.php:93
+msgid "Require"
+msgstr ""
+
+#: member-access/includes/class-mailchimp-optin-gateway.php:94
+msgid "Disable"
+msgstr ""
+
+#: member-access/includes/class-mailchimp-optin-gateway.php:101
+msgid ""
+"Add customers who purchase this product in MailChimp by identifying the "
+"fields."
+msgstr ""
+
+#: member-access/includes/class-mailchimp-optin-gateway.php:125
+msgid ""
+"Create a list of these customers in MailChimp by identifying the fields."
+msgstr ""
+
+#: member-access/includes/class-mailchimp-optin-gateway.php:285
+#: views/misc/aweber-contact-form.php:18
+#: member-access/includes/views/template-tags.php:188
+msgid "Email Address"
+msgstr ""
+
+#: member-access/includes/class-mailchimp-optin-gateway.php:286
+#: views/misc/constant-contact-form.php:17
+#: member-access/includes/views/template-tags.php:170
+msgid "First Name"
+msgstr ""
+
+#: member-access/includes/class-mailchimp-optin-gateway.php:287
+#: views/misc/constant-contact-form.php:21
+#: member-access/includes/views/template-tags.php:177
+msgid "Last Name"
+msgstr ""
+
+#: member-access/includes/class-mailchimp-optin-gateway.php:291
+msgid "MailChimp List Merge Field(s):"
+msgstr ""
+
+#: member-access/includes/class-order-summary.php:63
+msgid "Member Access Order History"
+msgstr ""
+
+#: member-access/includes/class-order-summary.php:75
+msgid "No statistics collected yet."
+msgstr ""
+
+#: member-access/includes/class-order-summary.php:246
+#: member-access/includes/admin/report.php:250
+#: member-access/includes/admin/user-management.php:46
+msgid "Date"
+msgstr ""
+
+#: member-access/includes/class-order-summary.php:247
+#: member-access/includes/class-orders.php:67
+#: member-access/includes/admin/user-management.php:53
+#: member-access/includes/admin/user-management.php:159
+#: member-access/includes/admin/user-management.php:171
+msgid "Orders"
+msgstr ""
+
+#: member-access/includes/class-order-summary.php:248
+msgid "Refunded"
+msgstr ""
+
+#: member-access/includes/class-order-summary.php:249
+msgid "Total Amt"
+msgstr ""
+
+#: member-access/includes/class-order-summary.php:250
+msgid "Refunded Amt"
+msgstr ""
+
+#: member-access/includes/class-order-summary.php:251
+msgid "Net Amt"
+msgstr ""
+
+#: member-access/includes/class-orders.php:68
+msgid "Order"
+msgstr ""
+
+#: member-access/includes/class-orders.php:71
+#: member-access/includes/class-orders.php:72
+msgid "View Order"
+msgstr ""
+
+#: member-access/includes/class-orders.php:76
+msgid "Search Orders"
+msgstr ""
+
+#: member-access/includes/class-orders.php:77
+msgid "No Orders found"
+msgstr ""
+
+#: member-access/includes/class-orders.php:78
+msgid "No Orders found in Trash"
+msgstr ""
+
+#: member-access/includes/class-orders.php:134
+#: member-access/includes/class-orders.php:199
+msgid "No gateway configured for order"
+msgstr ""
+
+#: member-access/includes/class-orders.php:180
+msgid "Subscription renewed. You can close the window."
+msgstr ""
+
+#: member-access/includes/class-orders.php:221
+msgid "Order Details"
+msgstr ""
+
+#: member-access/includes/class-orders.php:232
+msgid "complimentary"
+msgstr ""
+
+#: member-access/includes/class-orders.php:233
+#: member-access/includes/class-orders.php:471
+#: member-access/includes/admin/report.php:286
+msgid "refund"
+msgstr ""
+
+#: member-access/includes/class-orders.php:271
+msgid "Effective Date"
+msgstr ""
+
+#: member-access/includes/class-orders.php:287
+#: member-access/includes/admin/report.php:260
+#: member-access/includes/admin/report.php:374
+msgid "Renewal Date"
+msgstr ""
+
+#: member-access/includes/class-orders.php:287
+msgid "N/A"
+msgstr ""
+
+#: member-access/includes/class-orders.php:293
+msgid "Another Complimentary Product for This Member"
+msgstr ""
+
+#: member-access/includes/class-orders.php:301
+msgid "Cancel subscription"
+msgstr ""
+
+#: member-access/includes/class-orders.php:303
+msgid ""
+"Once a subscription is cancelled, it can only be recreated by your member."
+msgstr ""
+
+#: member-access/includes/class-orders.php:313
+msgid "Refund Order"
+msgstr ""
+
+#: member-access/includes/class-orders.php:315
+msgid ""
+"Once an order is refunded, all associated access is changed to the Refund "
+"Product immediately."
+msgstr ""
+
+#: member-access/includes/class-orders.php:320
+#: member-access/includes/class-orders.php:324
+#: member-access/includes/class-orders.php:513
+#: member-access/includes/class-products.php:75
+#: member-access/includes/admin/report.php:89
+#: member-access/includes/admin/report.php:249
+#: member-access/includes/admin/report.php:372
+msgid "Product"
+msgstr ""
+
+#: member-access/includes/class-orders.php:329
+#: member-access/includes/class-products.php:296
+#: member-access/includes/class-products.php:328
+msgid "Change Product"
+msgstr ""
+
+#: member-access/includes/class-orders.php:334
+msgid ""
+"Enter a Product ID or Product Name to change the product the member has "
+"access to."
+msgstr ""
+
+#: member-access/includes/class-orders.php:343
+msgid "Email a receipt for this order."
+msgstr ""
+
+#: member-access/includes/class-orders.php:350
+#: member-access/includes/class-orders.php:512
+#: member-access/includes/admin/report.php:248
+#: member-access/includes/admin/report.php:371
+msgid "Member"
+msgstr ""
+
+#: member-access/includes/class-orders.php:355
+#: member-access/includes/class-products.php:509
+#: member-access/includes/admin/report.php:251
+msgid "Price"
+msgstr ""
+
+#: member-access/includes/class-orders.php:539
+#, php-format
+msgid "<p><a href=\"%s\">%s - %s %s</a></p>"
+msgstr ""
+
+#: member-access/includes/class-orders.php:550
+#, php-format
+msgid "<p><a href=\"%s\">%s</a></p>"
+msgstr ""
+
+#: member-access/includes/class-orders.php:562
+#, php-format
+msgid "<p><a href=\"%s\">"
+msgstr ""
+
+#: member-access/includes/class-orders.php:584
+#: member-access/includes/class-orders.php:585
+msgid "Order updated."
+msgstr ""
+
+#: member-access/includes/class-orders.php:586
+msgid "Order published."
+msgstr ""
+
+#: member-access/includes/class-orders.php:587
+msgid "Order saved."
+msgstr ""
+
+#: member-access/includes/class-products.php:76
+#: member-access/includes/class-products.php:77
+msgid "Create New Product"
+msgstr ""
+
+#: member-access/includes/class-products.php:78
+#: member-access/includes/class-products.php:79
+msgid "Edit Product"
+msgstr ""
+
+#: member-access/includes/class-products.php:80
+msgid "New Product"
+msgstr ""
+
+#: member-access/includes/class-products.php:81
+#: member-access/includes/class-products.php:82
+msgid "View Product"
+msgstr ""
+
+#: member-access/includes/class-products.php:83
+msgid "Search Products"
+msgstr ""
+
+#: member-access/includes/class-products.php:84
+msgid "No Products found"
+msgstr ""
+
+#: member-access/includes/class-products.php:85
+msgid "No Products found in Trash"
+msgstr ""
+
+#: member-access/includes/class-products.php:126
+msgid "Access Level"
+msgstr ""
+
+#: member-access/includes/class-products.php:127
+msgid "Separate access levels with commas"
+msgstr ""
+
+#: member-access/includes/class-products.php:128
+msgid "Choose from previously used access levels"
+msgstr ""
+
+#: member-access/includes/class-products.php:162
+msgid "Product Details"
+msgstr ""
+
+#: member-access/includes/class-products.php:178
+msgid "Checkout page has not been configured."
+msgstr ""
+
+#: member-access/includes/class-products.php:180
+msgid "Purchase link:"
+msgstr ""
+
+#: member-access/includes/class-products.php:188
+msgid "Product Description"
+msgstr ""
+
+#: member-access/includes/class-products.php:194
+msgid "Thank You Page"
+msgstr ""
+
+#: member-access/includes/class-products.php:201
+msgid "Select Thank You Page"
+msgstr ""
+
+#: member-access/includes/class-products.php:208
+msgid "This is a free product"
+msgstr ""
+
+#: member-access/includes/class-products.php:247
+msgid "Product Price"
+msgstr ""
+
+#: member-access/includes/class-products.php:253
+msgid "Product Duration"
+msgstr ""
+
+#: member-access/includes/class-products.php:253
+msgid "Enter 0 for lifetime"
+msgstr ""
+
+#: member-access/includes/class-products.php:256
+#: member-access/includes/class-products.php:276
+msgid "days"
+msgstr ""
+
+#: member-access/includes/class-products.php:264
+msgid "This is a subscription"
+msgstr ""
+
+#: member-access/includes/class-products.php:267
+msgid "Number of Payments including Trial Payment below"
+msgstr ""
+
+#: member-access/includes/class-products.php:270
+msgid "payments"
+msgstr ""
+
+#: member-access/includes/class-products.php:273
+msgid "Trial Period"
+msgstr ""
+
+#: member-access/includes/class-products.php:273
+msgid "Leave blank for no trial period"
+msgstr ""
+
+#: member-access/includes/class-products.php:279
+#: member-access/includes/admin/report.php:261
+#: member-access/includes/admin/report.php:382
+msgid "Trial Price"
+msgstr ""
+
+#: member-access/includes/class-products.php:284
+msgid "Cancellation Product"
+msgstr ""
+
+#: member-access/includes/class-products.php:301
+msgid ""
+"Enter a Product ID or Product Name to change the product the member has "
+"access to when they cancel this subscription."
+msgstr ""
+
+#: member-access/includes/class-products.php:316
+msgid "Refund Product"
+msgstr ""
+
+#: member-access/includes/class-products.php:333
+msgid ""
+"Enter a Product ID or Product Name to change the product the member has "
+"access to when the order is refunded."
+msgstr ""
+
+#: member-access/includes/class-products.php:347
+msgid "Send an Email Receipt"
+msgstr ""
+
+#: member-access/includes/class-products.php:348
+msgid "Preview Email"
+msgstr ""
+
+#: member-access/includes/class-products.php:349
+#: member-access/includes/views/shortcodes.php:344
+msgid "Update"
+msgstr ""
+
+#: member-access/includes/class-products.php:353
+msgid "Subject"
+msgstr ""
+
+#: member-access/includes/class-products.php:359
+msgid "Send a blind copy of purchase receipt to the following addresses"
+msgstr ""
+
+#: member-access/includes/class-products.php:359
+msgid "(separate multiple emails with a comma)"
+msgstr ""
+
+#: member-access/includes/class-products.php:365
+msgid "Email Receipt Subject Line"
+msgstr ""
+
+#: member-access/includes/class-products.php:367
+#, php-format
+msgid "Receipt for purchase at %s"
+msgstr ""
+
+#: member-access/includes/class-products.php:371
+msgid "Email Receipt Message Text"
+msgstr ""
+
+#: member-access/includes/class-products.php:371
+msgid "This message will also be displayed when checkout is complete"
+msgstr ""
+
+#: member-access/includes/class-products.php:376
+msgid "Available Shortcodes"
+msgstr ""
+
+#: member-access/includes/class-products.php:532
+msgid "<p>Free Product</p>"
+msgstr ""
+
+#: member-access/includes/class-products.php:541
+#, php-format
+msgid "<p>%.2f</p>"
+msgstr ""
+
+#: member-access/includes/class-products.php:669
+msgid "cancel transfer"
+msgstr ""
+
+#: member-access/includes/class-products.php:709
+#: member-access/includes/class-products.php:710
+msgid "Product updated."
+msgstr ""
+
+#: member-access/includes/class-products.php:711
+msgid "Product published."
+msgstr ""
+
+#: member-access/includes/class-products.php:712
+msgid "Product saved."
+msgstr ""
+
+#: member-access/includes/class-vbulletinbridge.php:403
+msgid "Error create vBulletin account"
+msgstr ""
+
+#: member-access/includes/class-vbulletinbridge.php:404
+#, php-format
+msgid ""
+"Username: %s\n"
+"Email Address: %s\n"
+"Error: %s\n"
+"\n"
+"%s"
+msgstr ""
+
+#: member-access/includes/class-vbulletinbridge.php:433
+#: member-access/includes/class-vbulletinbridge.php:465
+msgid "vBulletin"
+msgstr ""
+
+#: member-access/includes/class-vbulletinbridge.php:446
+#: member-access/includes/admin/settings.php:319
+msgid "vBulletin User Group"
+msgstr ""
+
+#: member-access/includes/class-vbulletinbridge.php:450
+msgid ""
+"Choose the vBulletin user group that Premise Members will be added to for "
+"this product."
+msgstr ""
+
+#: member-access/includes/class-vbulletinbridge.php:466
+msgid "vBulletin User ID"
+msgstr ""
+
+#: member-access/includes/class-vbulletinbridge.php:511
+msgid "Forum Username"
+msgstr ""
+
+#: member-access/includes/class-vbulletinbridge.php:522
+msgid "Username not available."
+msgstr ""
+
+#: member-access/includes/functions.php:645
+#: member-access/includes/views/shortcodes.php:25
+msgid "You have already purchased this product"
+msgstr ""
+
+#: member-access/includes/functions.php:1049
+#: views/thickbox/button-creation.php:167
+msgid "Save"
+msgstr ""
+
+#: member-access/includes/functions.php:1055
+msgid "Delete Permanently"
+msgstr ""
+
+#: member-access/includes/functions.php:1057
+msgid "Move to Trash"
+msgstr ""
+
+#: member-access/includes/functions.php:1059 views/settings/buttons.php:55
+#: views/settings/styles.php:67
+msgid "Delete"
+msgstr ""
+
+#: member-access/includes/members.php:25
+msgid "Premise Member"
+msgstr ""
+
+#: member-access/includes/members.php:269
+msgid "Complimentary Product"
+msgstr ""
+
+#: views/interceptions/post-new.php:5
+msgid ""
+"Please choose the type of landing page you wish to create.  You cannot "
+"modify the type of a landing page after creating it, so please choose wisely."
+msgstr ""
+
+#: views/meta-boxes/premise-content-tab.php:20 views/settings/buttons.php:30
+#: views/settings/buttons.php:38 views/settings/styles.php:42
+#: views/settings/styles.php:49 views/thickbox/optin.php:130
+msgid "Title"
+msgstr ""
+
+#: views/meta-boxes/premise-content-tab.php:24
+msgid "Delete This Tab"
+msgstr ""
+
+#: views/meta-boxes/premise-content-tab.php:29
+msgid "Tooltip"
+msgstr ""
+
+#: views/meta-boxes/premise-content-tab.php:37
+msgid "Icon URL"
+msgstr ""
+
+#: views/meta-boxes/premise-content-tab.php:41
+#, php-format
+msgid ""
+"You can upload one via the <a class=\"thickbox\" href=\"%s\">WordPress "
+"uploader</a>."
+msgstr ""
+
+#: views/meta-boxes/premise-education.php:5
+msgid "Get Copywriting Assistance"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:11
+msgid "Subheading"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:12
+msgid "Provide a great subheading to really pull your readers in."
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:16
+msgid "Enter sub-head here"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:23
+msgid "Landing Page Style"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:24
+msgid ""
+"You can choose which of the preconfigured styles you wish to use for this "
+"landing page."
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:35
+msgid "Favicon"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:36
+#, php-format
+msgid ""
+"Enter a URL that points at the favicon you wish to use for this landing "
+"page.  You can upload one via the <a class=\"thickbox\" href=\"%s"
+"\">WordPress uploader</a>."
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:37
+#, php-format
+msgid ""
+"<strong>Note:</strong> If you leave this field blank but have entered a "
+"default favicon on the <a href=\"%s\" target=\"_blank\">main settings</a> "
+"page, that icon will be used for this landing page."
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:43
+msgid "Header Display"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:44
+msgid ""
+"You can choose whether or not to show the header (both main and "
+"subheadlines) for this landing page.  Remove it by checking the box."
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:49
+msgid "Remove the main headlines area from this landing page"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:55
+msgid "Remove the header image from this landing page"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:61
+msgid "Header Image"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:62
+#, php-format
+msgid ""
+"Enter the URL of the image you wish to use in the header of your landing "
+"page.  If you don't have an image handy, upload one via the <a class="
+"\"thickbox\" href=\"%s\">WordPress uploader</a>."
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:63
+#, php-format
+msgid ""
+"<strong>Note:</strong> If you leave this field blank but have entered a "
+"default image on the <a href=\"%s\" target=\"_blank\">main settings</a> "
+"page, that image will be used for this landing page."
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:66
+msgid "Header Image Alternate Text"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:67
+msgid "(Enter the alternate text you would like for the header image."
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:68
+#, php-format
+msgid ""
+"<strong>Note:</strong> If you leave this field blank but have entered a "
+"default Alternate Text on the <a href=\"%s\" target=\"_blank\">main "
+"settings</a> page, that Alternate Text will be used for this landing page."
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:71
+msgid "Header Image URL"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:72
+msgid ""
+"Enter a URL that points to the website you wish the header image to link to."
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:73
+#, php-format
+msgid ""
+"<strong>Note:</strong> If you leave this field blank but have entered a "
+"default URL on the <a href=\"%s\" target=\"_blank\">main settings</a> page, "
+"that URL will be used for this landing page."
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:80
+msgid "Open the Header Image Link in a new window"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:90
+msgid "Footer Display"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:91
+msgid ""
+"You can choose whether or not to show the footer (with text) for this "
+"landing page.  The footer is displayed by default, but you can remove it by "
+"checking the box."
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:96
+msgid "Remove the footer from this landing page"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:102
+msgid "Footer Copy"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:103
+msgid "Enter a tagline that will appear in the footer of your landing page."
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:110
+#: views/settings/class-main-settings.php:53
+msgid "Scripts"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:111
+msgid ""
+"Premise allows you to add content to either the header or footer.  Insert "
+"some code into the textareas below to make it appear on this particular "
+"landing page only.  These fields are meant for adding JavaScript, tracking "
+"codes and CSS, not content."
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:114
+#: views/settings/class-main-settings.php:343
+msgid "Header Scripts"
+msgstr ""
+
+#: views/meta-boxes/premise-options.php:119
+#: views/settings/class-main-settings.php:346
+msgid "Footer Scripts"
+msgstr ""
+
+#: views/meta-boxes/premise-pricing-column.php:19
+msgid "Price Column Header"
+msgstr ""
+
+#: views/meta-boxes/premise-pricing-column.php:23
+msgid "Delete This Column"
+msgstr ""
+
+#: views/meta-boxes/premise-pricing-column.php:49
+msgid "Add Another"
+msgstr ""
+
+#: views/meta-boxes/premise-pricing-column.php:56
+msgid "Call to Action"
+msgstr ""
+
+#: views/meta-boxes/premise-pricing-column.php:60
+msgid "Text"
+msgstr ""
+
+#: views/meta-boxes/premise-pricing-column.php:66
+msgid "URL"
+msgstr ""
+
+#: views/meta-boxes/premise-pricing-column.php:72
+msgid "Force New Window"
+msgstr ""
+
+#: views/meta-boxes/premise-pricing-column.php:76
+msgid "Clicks on the call to action button should open in a new window."
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:7
+msgid "Custom Landing Page Title"
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:8
+msgid ""
+"The title of your page will be the <code>&lt;title&gt;</code> tag by "
+"default.  You can override this by entering your own custom <code>&lt;"
+"title&gt;</code> tag below."
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:11 views/meta-boxes/premise-seo.php:26
+#: views/meta-boxes/premise-tracking.php:42
+msgid "Recommended:"
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:12
+#, php-format
+msgid ""
+"Most search engines allow up to <span class=\"premise-character-count-"
+"suggested\">%d</span> characters for your title.  You have <span class="
+"\"premise-character-count %s\">%d</span> above."
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:22
+msgid "Custom Landing Page Meta Description"
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:23
+msgid ""
+"The first few words of your page will be the <code>&lt;meta name="
+"\"description\"&gt;</code> tag by default.  You can override this and enter "
+"your own custom description below."
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:27
+#, php-format
+msgid ""
+"Most search engines allow approx. <span class=\"premise-character-count-"
+"suggested\">%d</span> characters for your description.  You have <span class="
+"\"premise-character-count %s\">%d</span> above."
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:32
+msgid "Custom Landing Page Meta Keywords"
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:33
+msgid ""
+"The <code>&lt;meta name=\"keywords\"&gt;</code> tag has become less "
+"important, and are not used by Google, Yahoo, or Bing for site ranking.  But "
+"smaller search engines may still be using the tag, so you can add them here "
+"if you want."
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:38
+msgid "Custom Canonical URI"
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:39
+msgid ""
+"Add a custom <code>&lt;link rel=\"canonical\" /&gt;</code> tag for this page."
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:39 views/meta-boxes/premise-seo.php:52
+#: views/meta-boxes/premise-seo.php:59 views/meta-boxes/premise-seo.php:66
+msgid "[?]"
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:44
+#: views/settings/class-main-settings.php:156
+msgid "Robots Meta Settings"
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:45
+#: views/settings/class-main-settings.php:157
+msgid ""
+"You can add these tags to tell robots not to index the content of a page, "
+"not scan it for links to follow, and/or remove your pages from the Google "
+"Cache."
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:50
+msgid "Apply <code>noindex</code> to this page"
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:57
+msgid "Apply <code>nofollow</code> to this page"
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:64
+msgid "Apply <code>noarchive</code> to this page"
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:72
+#: views/settings/class-main-settings.php:166
+msgid "Feed Autodetect"
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:73
+msgid ""
+"On by default &mdash; checking the box turns it off.  You may not want your "
+"feed autodetect to show up on a landing page, as it may deter from your call "
+"to action.  You can turn off the feed autodiscovery only for this page and "
+"not the rest of your site."
+msgstr ""
+
+#: views/meta-boxes/premise-seo.php:78
+msgid "Turn off Feed Autodetect for this page?"
+msgstr ""
+
+#: views/meta-boxes/premise-tracking.php:4
+msgid "Duplicate Page"
+msgstr ""
+
+#: views/meta-boxes/premise-tracking.php:5
+msgid ""
+"Do you want to duplicate this page and all associated meta so that you can A/"
+"B test two versions?"
+msgstr ""
+
+#: views/meta-boxes/premise-tracking.php:6
+msgid "Duplicate!"
+msgstr ""
+
+#: views/meta-boxes/premise-tracking.php:9
+msgid "Visual Website Optimizer"
+msgstr ""
+
+#: views/meta-boxes/premise-tracking.php:10
+#, php-format
+msgid ""
+"To use VWO on this page, make sure you have your Visual Website Optimizer "
+"Account ID entered on the <a target=\"_blank\" href=\"%s\">Main Settings</a> "
+"page, then log into your VWO account to set up and conduct your tests."
+msgstr ""
+
+#: views/meta-boxes/premise-tracking.php:12
+msgid "Google Content Experiments"
+msgstr ""
+
+#: views/meta-boxes/premise-tracking.php:15
+#, php-format
+msgid ""
+"You must use a Google Analytics plugin or <a target=\"_blank\" href=\"%s"
+"\">setup</a> your Google Analytics account ID before enabling tracking on "
+"this landing page."
+msgstr ""
+
+#: views/meta-boxes/premise-tracking.php:19
+msgid ""
+"You can use Google Content Experiments to track your conversions and test "
+"variations of this landing page. You have to set up a few options before it "
+"is ready to go."
+msgstr ""
+
+#: views/meta-boxes/premise-tracking.php:21
+msgid ""
+"<strong>Note:</strong> You must publish your page before Google can validate "
+"your page for testing. GCE will not be able to see your page when it is set "
+"as Draft or Private. Once published, you can validate and set up your "
+"experiments in your Google Analytics account."
+msgstr ""
+
+#: views/meta-boxes/premise-tracking.php:24
+msgid "Enable Content Experiments"
+msgstr ""
+
+#: views/meta-boxes/premise-tracking.php:25
+msgid ""
+"Content Experiments support for this page is disabled by default.  To turn "
+"it on, simply check the box."
+msgstr ""
+
+#: views/meta-boxes/premise-tracking.php:30
+msgid "Enable Content Experiments for this page?"
+msgstr ""
+
+#: views/meta-boxes/premise-tracking.php:38
+msgid "Google Content Experiment Test ID"
+msgstr ""
+
+#: views/meta-boxes/premise-tracking.php:39
+msgid ""
+"If this is the original page enter your experiment tracking ID or enter your "
+"test tracking code and we'll parse the ID for you."
+msgstr ""
+
+#: views/meta-boxes/premise-tracking.php:43
+msgid ""
+"If you're not sure how to find your test ID, just copy the entire test "
+"tracking code that Google gives you into the input above.  Premise will sort "
+"everything out."
+msgstr ""
+
+#: views/misc/aweber-contact-form.php:25 views/misc/plugin-support-row.php:12
+msgid "Your Name"
+msgstr ""
+
+#: views/misc/constant-contact-form.php:25
+#: member-access/includes/admin/report.php:247
+#: member-access/includes/admin/report.php:370
+msgid "Email"
+msgstr ""
+
+#: views/misc/constant-contact-form.php:29
+msgid "Signup"
+msgstr ""
+
+#: views/misc/duplicate-notice.php:3
+#, php-format
+msgid ""
+"A duplicate of this post has been created for you.  You can <a href=\"%s"
+"\">edit it here</a>"
+msgstr ""
+
+#: views/misc/not-writeable-notice.php:2
+#, php-format
+msgid ""
+"The Premise theme's CSS directory is not writeable.  Please change the "
+"permissions on the directory <code>%s</code> to make it writeable."
+msgstr ""
+
+#: views/misc/plugin-support-row.php:4
+msgid "Get Support"
+msgstr ""
+
+#: views/misc/plugin-support-row.php:7
+msgid ""
+"Need to get support for Premise?  Please fill in your name, email address, "
+"and a brief description of the problem and we'll get back to you as soon as "
+"possible."
+msgstr ""
+
+#: views/misc/plugin-support-row.php:18
+msgid "Your Email"
+msgstr ""
+
+#: views/misc/plugin-support-row.php:24
+msgid "Your Issue"
+msgstr ""
+
+#: views/misc/plugin-support-row.php:33
+msgid "Submit Report"
+msgstr ""
+
+#: views/misc/plugin-support-row.php:33
+msgid "Submit Support Request"
+msgstr ""
+
+#: views/misc/plugin-support-row.php:39
+#, php-format
+msgid ""
+"You must have entered a valid API key to request support.  Please <a href="
+"\"%s\">enter one now</a>."
+msgstr ""
+
+#: views/misc/sent-support-request-admin-notice.php:2
+msgid "Support Request Sent!"
+msgstr ""
+
+#: views/settings/buttons.php:26
+msgid "Your Buttons"
+msgstr ""
+
+#: views/settings/buttons.php:26
+msgid "Add New Button"
+msgstr ""
+
+#: views/settings/buttons.php:31 views/settings/buttons.php:39
+msgid "Example Button"
+msgstr ""
+
+#: views/settings/buttons.php:32 views/settings/buttons.php:40
+#: views/settings/styles.php:43 views/settings/styles.php:50
+#: views/thickbox/graphics.php:103 views/thickbox/graphics.php:110
+msgid "Actions"
+msgstr ""
+
+#: views/settings/buttons.php:33 views/settings/buttons.php:41
+#: views/settings/styles.php:44 views/settings/styles.php:51
+msgid "Last Saved"
+msgstr ""
+
+#: views/settings/buttons.php:53 views/settings/styles.php:64
+msgid "Edit"
+msgstr ""
+
+#: views/settings/buttons.php:54 views/settings/styles.php:65
+msgid "Duplicate"
+msgstr ""
+
+#: views/settings/class-main-settings.php:21
+#: views/settings/class-main-settings.php:28
+#: views/settings/class-main-settings.php:29
+#: member-access/includes/admin/settings.php:61
+msgid "Main Settings"
+msgstr ""
+
+#: views/settings/class-main-settings.php:22
+msgid "Premise"
+msgstr ""
+
+#: views/settings/class-main-settings.php:43
+msgid "General"
+msgstr ""
+
+#: views/settings/class-main-settings.php:45
+msgid "Constant Contact"
+msgstr ""
+
+#: views/settings/class-main-settings.php:48
+msgid "SEO"
+msgstr ""
+
+#: views/settings/class-main-settings.php:49
+msgid "Sharing"
+msgstr ""
+
+#: views/settings/class-main-settings.php:50
+msgid "Testing"
+msgstr ""
+
+#: views/settings/class-main-settings.php:63
+msgid "API Key"
+msgstr ""
+
+#: views/settings/class-main-settings.php:67
+msgid "Landing Page URLs"
+msgstr ""
+
+#: views/settings/class-main-settings.php:69
+#, php-format
+msgid ""
+"Landing pages should have URLs off the site root (like <code>%slanding-page-"
+"slug/</code>)"
+msgstr ""
+
+#: views/settings/class-main-settings.php:73
+msgid "Rewrite Structure"
+msgstr ""
+
+#: views/settings/class-main-settings.php:77
+msgid "Membership"
+msgstr ""
+
+#: views/settings/class-main-settings.php:80
+msgid "Enable the membership module"
+msgstr ""
+
+#: views/settings/class-main-settings.php:83
+msgid "Add your API key above to enable the membership module"
+msgstr ""
+
+#: views/settings/class-main-settings.php:104
+msgid "Theme Support"
+msgstr ""
+
+#: views/settings/class-main-settings.php:108
+#, php-format
+msgid "Use %s in my current theme for my landing page template"
+msgstr ""
+
+#: views/settings/class-main-settings.php:111
+msgid "Add your API key above to enable the site theme support"
+msgstr ""
+
+#: views/settings/class-main-settings.php:117
+msgid ""
+"The content settings below are defaults and may be overridden per landing "
+"page."
+msgstr ""
+
+#: views/settings/class-main-settings.php:119
+msgid "Default Favicon"
+msgstr ""
+
+#: views/settings/class-main-settings.php:120
+msgid ""
+"Enter the URL to a favicon you would like to use for your landing pages.  "
+"You can override this per landing page, but the value here will be used by "
+"default."
+msgstr ""
+
+#: views/settings/class-main-settings.php:122
+#: views/settings/class-main-settings.php:128
+msgid "Upload"
+msgstr ""
+
+#: views/settings/class-main-settings.php:125
+msgid "Default Header Image"
+msgstr ""
+
+#: views/settings/class-main-settings.php:126
+msgid ""
+"Enter the URL to an image that you wish to use in the header of your landing "
+"pages by default."
+msgstr ""
+
+#: views/settings/class-main-settings.php:131
+msgid "Default Header Image Alt Text"
+msgstr ""
+
+#: views/settings/class-main-settings.php:132
+msgid ""
+"(optional) Enter the alternate text you would like for the header image."
+msgstr ""
+
+#: views/settings/class-main-settings.php:136
+msgid "Default Header Image Link"
+msgstr ""
+
+#: views/settings/class-main-settings.php:137
+msgid "(optional) Enter the URL you would like the header image to link to."
+msgstr ""
+
+#: views/settings/class-main-settings.php:140
+msgid "Default Footer Text"
+msgstr ""
+
+#: views/settings/class-main-settings.php:149
+msgid "SEO Tool"
+msgstr ""
+
+#: views/settings/class-main-settings.php:151
+msgid "Use Premise SEO"
+msgstr ""
+
+#: views/settings/class-main-settings.php:154
+msgid ""
+"The SEO settings below are defaults and will be overridden per landing page."
+msgstr ""
+
+#: views/settings/class-main-settings.php:159
+msgid "Apply <code>noindex</code> to page"
+msgstr ""
+
+#: views/settings/class-main-settings.php:161
+msgid "Apply <code>nofollow</code> to page"
+msgstr ""
+
+#: views/settings/class-main-settings.php:163
+msgid "Apply <code>noarchive</code> to page"
+msgstr ""
+
+#: views/settings/class-main-settings.php:167
+msgid ""
+"On by default &mdash; checking the box turns it off.  You may not want your "
+"feed autodetect to show up on a landing page, as it may deter from your call "
+"to action.  You can turn off the feed autodiscovery on landing pages and not "
+"the rest of your site."
+msgstr ""
+
+#: views/settings/class-main-settings.php:169
+msgid "Turn off Feed Autodetect for landing pages?"
+msgstr ""
+
+#: views/settings/class-main-settings.php:180
+msgid "AWeber Forms"
+msgstr ""
+
+#: views/settings/class-main-settings.php:182
+msgid "Use opt in forms hosted on my site?"
+msgstr ""
+
+#: views/settings/class-main-settings.php:184
+msgid "AWeber Enhanced"
+msgstr ""
+
+#: views/settings/class-main-settings.php:186
+msgid "Use enhanced access which provides access to all AWeber API functions?"
+msgstr ""
+
+#: views/settings/class-main-settings.php:188
+msgid "AWeber App ID"
+msgstr ""
+
+#: views/settings/class-main-settings.php:190
+#, php-format
+msgid ""
+"Control over member email subscriptions requires an AWeber App ID. <a href="
+"\"%s\">Create an AWeber app</a> then paste the App ID in the field above to "
+"enable full AWeber API access."
+msgstr ""
+
+#: views/settings/class-main-settings.php:192
+msgid "AWeber Authorization Code"
+msgstr ""
+
+#: views/settings/class-main-settings.php:194
+msgid "Click here to get your authorization code."
+msgstr ""
+
+#: views/settings/class-main-settings.php:196
+msgid "Refresh Lists"
+msgstr ""
+
+#: views/settings/class-main-settings.php:258
+msgid "Refreshing List Fields"
+msgstr ""
+
+#: views/settings/class-main-settings.php:268
+msgid "Constant Contact Username"
+msgstr ""
+
+#: views/settings/class-main-settings.php:271
+msgid "Constant Contact Password"
+msgstr ""
+
+#: views/settings/class-main-settings.php:281
+msgid "MailChimp API Key"
+msgstr ""
+
+#: views/settings/class-main-settings.php:283
+msgid "Get your API key."
+msgstr ""
+
+#: views/settings/class-main-settings.php:288
+msgid ""
+"Turn off the MailChimp double opt in confirmation email and confirmation "
+"page."
+msgstr ""
+
+#: views/settings/class-main-settings.php:298
+msgid ""
+"Premise contains a landing page type that makes your visitors share your "
+"content before they can access the full page. You can pick from simple or "
+"enhanced sharing types below."
+msgstr ""
+
+#: views/settings/class-main-settings.php:300
+msgid "Sharing Type"
+msgstr ""
+
+#: views/settings/class-main-settings.php:302
+msgid ""
+"Simple - Sharing based on the \"honor system.\" No technical knowledge "
+"required, but does not ensure the share is completed and provides no "
+"tracking of page shares."
+msgstr ""
+
+#: views/settings/class-main-settings.php:305
+msgid "Enhanced"
+msgstr ""
+
+#: views/settings/class-main-settings.php:305
+#, php-format
+msgid ""
+"Only select this if you feel comfortable registering Twitter (<a href=\"%s\" "
+"target=\"_blank\">instructions</a>) and Facebook (<a href=\"%s\" target="
+"\"_blank\">instructions</a>) applications."
+msgstr ""
+
+#: views/settings/class-main-settings.php:307
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: views/settings/class-main-settings.php:310
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: views/settings/class-main-settings.php:313
+msgid "Facebook App ID"
+msgstr ""
+
+#: views/settings/class-main-settings.php:316
+msgid "Facebook App Secret"
+msgstr ""
+
+#: views/settings/class-main-settings.php:326
+msgid "Google Analytics Account ID"
+msgstr ""
+
+#: views/settings/class-main-settings.php:327
+msgid ""
+"Leave this blank if you are using a Google Analytics plugin. Otherwise enter "
+"the entire account ID, including the UA string. If you do not know your "
+"account ID, please just paste your entire tracking script and Premise will "
+"extract it."
+msgstr ""
+
+#: views/settings/class-main-settings.php:330
+msgid "Visual Website Optimizer Account ID"
+msgstr ""
+
+#: views/settings/class-main-settings.php:341
+msgid ""
+"Premise allows you to add content to either the header or footer.  Insert "
+"some code into the textareas below to make it appear on all Premise landing "
+"pages. These fields are meant for adding JavaScript, tracking codes and CSS, "
+"not content."
+msgstr ""
+
+#: views/settings/class-main-settings.php:409
+msgid ""
+"Your new Premise API key could not be confirmed.  Please enter a valid key "
+"below."
+msgstr ""
+
+#: views/settings/class-main-settings.php:513
+msgid "AWeber lists refreshed."
+msgstr ""
+
+#: views/settings/design.php:19
+msgid "Settings Reset."
+msgstr ""
+
+#: views/settings/design.php:21
+msgid "Settings Saved."
+msgstr ""
+
+#: views/settings/header.php:11
+msgid "Main"
+msgstr ""
+
+#: views/settings/header.php:12
+msgid "Styles"
+msgstr ""
+
+#: views/settings/header.php:14
+msgid "Buttons"
+msgstr ""
+
+#: views/settings/header.php:26
+msgid "Item Deleted"
+msgstr ""
+
+#: views/settings/header.php:28
+msgid "Item Duplicated"
+msgstr ""
+
+#: views/settings/styles.php:37
+msgid "Your Styles"
+msgstr ""
+
+#: views/settings/styles.php:37
+msgid "Add New Style"
+msgstr ""
+
+#: views/settings/styles.php:73
+msgid "F j, Y \\a\\t g:iA"
+msgstr ""
+
+#: views/thickbox/button-creation.php:5
+msgid "Create a Button"
+msgstr ""
+
+#: views/thickbox/button-creation.php:16
+msgid "Button Name"
+msgstr ""
+
+#: views/thickbox/button-creation.php:19
+msgid ""
+"This name is for identification purposes only.  You will choose the text for "
+"the button while configuring it with the landing page editor."
+msgstr ""
+
+#: views/thickbox/button-creation.php:23
+msgid "Background"
+msgstr ""
+
+#: views/thickbox/button-creation.php:26 views/thickbox/button-creation.php:51
+msgid "Start Color"
+msgstr ""
+
+#: views/thickbox/button-creation.php:34 views/thickbox/button-creation.php:59
+msgid "Color Stop"
+msgstr ""
+
+#: views/thickbox/button-creation.php:39 views/thickbox/button-creation.php:64
+msgid "Enable"
+msgstr ""
+
+#: views/thickbox/button-creation.php:43 views/thickbox/button-creation.php:68
+msgid "End Color"
+msgstr ""
+
+#: views/thickbox/button-creation.php:48
+msgid "Background on Hover"
+msgstr ""
+
+#: views/thickbox/button-creation.php:73
+msgid "Border/Padding"
+msgstr ""
+
+#: views/thickbox/button-creation.php:76 views/thickbox/button-creation.php:88
+#: views/thickbox/button-creation.php:100
+#: views/thickbox/button-creation.php:118
+#: views/thickbox/button-creation.php:127
+#: views/thickbox/button-creation.php:139
+#: views/meta-boxes/page-types/pricing-controls.php:32
+msgid "Color"
+msgstr ""
+
+#: views/thickbox/button-creation.php:77
+msgid "Width"
+msgstr ""
+
+#: views/thickbox/button-creation.php:78
+msgid "Radius"
+msgstr ""
+
+#: views/thickbox/button-creation.php:79
+msgid "Top + Bottom"
+msgstr ""
+
+#: views/thickbox/button-creation.php:80
+msgid "Left + Right"
+msgstr ""
+
+#: views/thickbox/button-creation.php:85
+msgid "Drop Shadow"
+msgstr ""
+
+#: views/thickbox/button-creation.php:89
+#: views/thickbox/button-creation.php:101
+#: views/thickbox/button-creation.php:128
+#: views/thickbox/button-creation.php:140
+msgid "Opacity"
+msgstr ""
+
+#: views/thickbox/button-creation.php:90
+#: views/thickbox/button-creation.php:102
+#: views/thickbox/button-creation.php:129
+#: views/thickbox/button-creation.php:141
+msgid "X"
+msgstr ""
+
+#: views/thickbox/button-creation.php:91
+#: views/thickbox/button-creation.php:103
+#: views/thickbox/button-creation.php:130
+#: views/thickbox/button-creation.php:142
+#: member-access/includes/admin/report.php:318
+msgid "Y"
+msgstr ""
+
+#: views/thickbox/button-creation.php:92
+#: views/thickbox/button-creation.php:104
+#: views/thickbox/button-creation.php:119
+#: views/thickbox/button-creation.php:131
+#: views/thickbox/button-creation.php:143
+msgid "Size"
+msgstr ""
+
+#: views/thickbox/button-creation.php:97
+msgid "Inner Shadow"
+msgstr ""
+
+#: views/thickbox/button-creation.php:109
+msgid "Text Font"
+msgstr ""
+
+#: views/thickbox/button-creation.php:113
+msgid "Font"
+msgstr ""
+
+#: views/thickbox/button-creation.php:124
+msgid "Text Shadow 1"
+msgstr ""
+
+#: views/thickbox/button-creation.php:136
+msgid "Text Shadow 2"
+msgstr ""
+
+#: views/thickbox/button-creation.php:155
+msgid "Preview"
+msgstr ""
+
+#: views/thickbox/button-creation.php:160
+msgid "Example"
+msgstr ""
+
+#: views/thickbox/button-creation.php:168
+msgid "Cancel"
+msgstr ""
+
+#: views/thickbox/button-usage.php:3
+msgid "Insert a Button"
+msgstr ""
+
+#: views/thickbox/button-usage.php:4
+msgid "Please Note:"
+msgstr ""
+
+#: views/thickbox/button-usage.php:4
+msgid ""
+"The buttons use styling techniques supported by most modern browsers (like "
+"Firefox, Chrome, Safari, and the upcoming version of IE).  Although the "
+"buttons will work in older browsers, the styling may not render as detailed "
+"as it will in modern browsers."
+msgstr ""
+
+#: views/thickbox/button-usage.php:8
+#, php-format
+msgid ""
+"You don't yet have any buttons configured.  <a target=\"_blank\" href=\"%s"
+"\">Configure one now.</a>"
+msgstr ""
+
+#: views/thickbox/button-usage.php:10 views/thickbox/button-usage.php:43
+msgid "Close"
+msgstr ""
+
+#: views/thickbox/button-usage.php:16
+msgid "Button Text"
+msgstr ""
+
+#: views/thickbox/button-usage.php:22
+msgid "Button Url"
+msgstr ""
+
+#: views/thickbox/button-usage.php:28
+msgid "Button Style"
+msgstr ""
+
+#: views/thickbox/button-usage.php:42 views/thickbox/optin.php:140
+msgid "Insert"
+msgstr ""
+
+#: views/thickbox/education.php:20
+#, php-format
+msgid "<a href=\"%s\">&laquo; Back to Copywriting Assistance for %s Pages</a>"
+msgstr ""
+
+#: views/thickbox/graphics.php:20
+msgid "&laquo;"
+msgstr ""
+
+#: views/thickbox/graphics.php:21
+msgid "&raquo;"
+msgstr ""
+
+#: views/thickbox/graphics.php:29
+msgid "Search Graphics:"
+msgstr ""
+
+#: views/thickbox/graphics.php:35 views/thickbox/graphics.php:68
+msgid "All"
+msgstr ""
+
+#: views/thickbox/graphics.php:40
+msgid "Search Graphics"
+msgstr ""
+
+#: views/thickbox/graphics.php:64
+msgid "Error retrieving image information.  Please check your API key."
+msgstr ""
+
+#: views/thickbox/graphics.php:73
+#, php-format
+msgid "Search for <em>%s</em> (%d)"
+msgstr ""
+
+#: views/thickbox/graphics.php:86
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr ""
+
+#: views/thickbox/graphics.php:101 views/thickbox/graphics.php:108
+msgid "Thumbnail"
+msgstr ""
+
+#: views/thickbox/graphics.php:102 views/thickbox/graphics.php:109
+msgid "Name"
+msgstr ""
+
+#: views/thickbox/graphics.php:118
+msgid "Use Image"
+msgstr ""
+
+#: views/thickbox/graphics.php:133
+msgid "No graphics were found that matched your criteria."
+msgstr ""
+
+#: views/thickbox/optin.php:3
+msgid "Add an Opt In Form"
+msgstr ""
+
+#: views/thickbox/optin.php:8
+msgid "Provider"
+msgstr ""
+
+#: views/thickbox/optin.php:29 views/thickbox/optin.php:59
+#: views/thickbox/optin.php:83
+msgid "List"
+msgstr ""
+
+#: views/thickbox/optin.php:35
+msgid "Form"
+msgstr ""
+
+#: views/thickbox/optin.php:41 views/thickbox/optin.php:65
+#: views/thickbox/optin.php:89 views/thickbox/optin.php:113
+msgid "Align"
+msgstr ""
+
+#: views/thickbox/optin.php:45 views/thickbox/optin.php:69
+#: views/thickbox/optin.php:93 views/thickbox/optin.php:117
+msgid "Left"
+msgstr ""
+
+#: views/thickbox/optin.php:46 views/thickbox/optin.php:70
+#: views/thickbox/optin.php:94 views/thickbox/optin.php:118
+msgid "Right"
+msgstr ""
+
+#: views/thickbox/optin.php:47 views/thickbox/optin.php:71
+#: views/thickbox/optin.php:95 views/thickbox/optin.php:119
+msgid "Center"
+msgstr ""
+
+#: views/thickbox/optin.php:107 views/meta-boxes/page-types/opt-in.php:28
+msgid "Opt In Form Code"
+msgstr ""
+
+#: member-access/includes/admin/post-access-metabox.php:35
+msgid "Membership Access"
+msgstr ""
+
+#: member-access/includes/admin/post-access-metabox.php:43
+msgid "Select Protection"
+msgstr ""
+
+#: member-access/includes/admin/post-access-metabox.php:45
+msgid "No Membership Required"
+msgstr ""
+
+#: member-access/includes/admin/post-access-metabox.php:47
+msgid "Has Member Access to"
+msgstr ""
+
+#: member-access/includes/admin/post-access-metabox.php:49
+msgid "Does not have Member Access to"
+msgstr ""
+
+#: member-access/includes/admin/post-access-metabox.php:52
+msgid "Choose the access level(s):"
+msgstr ""
+
+#: member-access/includes/admin/post-access-metabox.php:113
+#, php-format
+msgid "Please <a href=\"%s\">Log in</a> to view this content."
+msgstr ""
+
+#: member-access/includes/admin/report.php:17
+msgid "Reports"
+msgstr ""
+
+#: member-access/includes/admin/report.php:40
+#: member-access/includes/views/shortcodes.php:23
+msgid "Submit"
+msgstr ""
+
+#: member-access/includes/admin/report.php:41
+msgid "Download"
+msgstr ""
+
+#: member-access/includes/admin/report.php:46
+msgid "Start Date:"
+msgstr ""
+
+#: member-access/includes/admin/report.php:50
+msgid "End Date:"
+msgstr ""
+
+#: member-access/includes/admin/report.php:60
+msgid "Sales"
+msgstr ""
+
+#: member-access/includes/admin/report.php:62
+msgid "Sales Summary"
+msgstr ""
+
+#: member-access/includes/admin/report.php:64
+msgid "Subscription Renewals"
+msgstr ""
+
+#: member-access/includes/admin/report.php:70
+msgid "Report"
+msgstr ""
+
+#: member-access/includes/admin/report.php:72
+msgid "Select Report:"
+msgstr ""
+
+#: member-access/includes/admin/report.php:95
+msgid "Select Product:"
+msgstr ""
+
+#: member-access/includes/admin/report.php:98
+msgid "-- Product --"
+msgstr ""
+
+#: member-access/includes/admin/report.php:128
+msgid "Select Coupon:"
+msgstr ""
+
+#: member-access/includes/admin/report.php:131
+msgid "-- Coupon --"
+msgstr ""
+
+#: member-access/includes/admin/report.php:210
+msgid "No Orders matched the criteria."
+msgstr ""
+
+#: member-access/includes/admin/report.php:248
+msgid "First\",\"Last"
+msgstr ""
+
+#: member-access/includes/admin/report.php:252
+msgid "Refund"
+msgstr ""
+
+#: member-access/includes/admin/report.php:259
+msgid "Subscription"
+msgstr ""
+
+#: member-access/includes/admin/report.php:263
+#: member-access/includes/admin/report.php:384
+msgid "Gateway"
+msgstr ""
+
+#: member-access/includes/admin/report.php:264
+#: member-access/includes/admin/report.php:385
+msgid "Transaction ID"
+msgstr ""
+
+#: member-access/includes/admin/report.php:335
+#: member-access/includes/admin/report.php:460
+msgid "Total Sales"
+msgstr ""
+
+#: member-access/includes/admin/report.php:373
+msgid "Purchase Date"
+msgstr ""
+
+#: member-access/includes/admin/report.php:375
+msgid "Subscription Price"
+msgstr ""
+
+#: member-access/includes/admin/report.php:389
+msgid "Action"
+msgstr ""
+
+#: member-access/includes/admin/report.php:452
+#: member-access/includes/views/shortcodes.php:416
+#, php-format
+msgid "<a href=\"%s\" %s>Renew</a>"
+msgstr ""
+
+#: member-access/includes/admin/report.php:479
+msgid "Total"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:36
+#: member-access/includes/admin/settings.php:43
+msgid "Member Access Settings"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:37
+#: member-access/includes/core/class-opt-in-payment.php:35
+msgid "Member Access"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:44
+msgid "Settings"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:62
+msgid "PayPal for Express Checkout and Website Payments Pro"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:63
+msgid "Authorize.net Settings"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:64
+msgid "Security Settings"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:65
+msgid "Email Settings"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:66
+msgid "File Protection Settings"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:67
+msgid "Forum Settings"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:78
+msgid "Checkout Page"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:84
+msgid "Select Checkout Page"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:90
+msgid "Login Page"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:96
+msgid "Select Login Page"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:102
+msgid "Member Page"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:108
+msgid "Select Member Page"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:115
+msgid "Enable Recurring Payment Option?"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:117
+msgid "Enable subscriptions on individual products."
+msgstr ""
+
+#: member-access/includes/admin/settings.php:120
+msgid "Currency"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:153
+#: member-access/includes/admin/settings.php:194
+msgid "Payment Gateway Mode"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:155
+#: member-access/includes/admin/settings.php:196
+msgid "Test"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:156
+#: member-access/includes/admin/settings.php:197
+msgid "Live"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:159
+#: member-access/includes/admin/settings.php:200
+msgid "Test Gateway"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:162
+#: member-access/includes/views/template-tags.php:211
+msgid "Username"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:166
+#: member-access/includes/views/template-tags.php:218
+msgid "Password"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:170
+msgid "Signature"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:181
+msgid ""
+"Recurring payments for Paypal require setting up Paypal IPN. Use the "
+"following URL for Paypal IPN:"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:203
+msgid "API Login ID"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:205
+msgid "Transaction Key"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:214
+msgid ""
+"Recurring payments for Authorize.net require Server cron. Use the following "
+"command for cron:"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:227
+msgid "Enable SSL on checkout page?"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:230
+msgid "Enable SSL everywhere?"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:233
+msgid "Use email address as username?"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:242
+msgid "Signup Receipt"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:244
+msgid ""
+"When a user activates a membership, they will be emailed notifying them of "
+"their new account. Use the settings below to control how that email looks."
+msgstr ""
+
+#: member-access/includes/admin/settings.php:247
+msgid "From Name"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:249
+msgid "From Address"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:249
+msgid "Default is wordpress@{yourdomain.com}"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:252
+msgid ""
+"You can create a custom subject line and email intro for each product by "
+"editing it."
+msgstr ""
+
+#: member-access/includes/admin/settings.php:267
+#, php-format
+msgid "Error creating the <em>%s</em> folder."
+msgstr ""
+
+#: member-access/includes/admin/settings.php:277
+#: member-access/includes/admin/settings.php:283
+#, php-format
+msgid "Error creating the <em>%s</em> file."
+msgstr ""
+
+#: member-access/includes/admin/settings.php:289
+msgid ""
+"Choose the folder you will use to store protected files. (relative to your "
+"uploads directory)"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:306
+msgid "Enable vBulletin Bridge"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:306
+msgid "Enable vBulletin Bridge?"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:309
+msgid ""
+"The vBulletin Bridge requires that you define VBULLETIN_PATH in your wp-"
+"config.php"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:315
+msgid "Allow Members to change their vBulletin Username?"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:320
+msgid "Choose the vBulletin user group that Premise Members will be added to."
+msgstr ""
+
+#: member-access/includes/admin/settings.php:323
+msgid "vBulletin Cencelled Subscription Group"
+msgstr ""
+
+#: member-access/includes/admin/settings.php:324
+msgid ""
+"Choose the vBulletin user group that Premise Members will be moved to when "
+"their subscription is cancelled."
+msgstr ""
+
+#: member-access/includes/admin/settings.php:364
+msgid "Paypal Gateway test passed."
+msgstr ""
+
+#: member-access/includes/admin/settings.php:379
+msgid "Authorize.Net Gateway test passed."
+msgstr ""
+
+#: member-access/includes/admin/settings.php:383
+msgid "Authorize.Net Gateway test failed."
+msgstr ""
+
+#: member-access/includes/admin/user-management.php:46
+msgid "Order ID"
+msgstr ""
+
+#: member-access/includes/admin/user-management.php:76
+msgid "Y/m/d"
+msgstr ""
+
+#: member-access/includes/core/class-api.php:119
+msgid "Gateway not configured!"
+msgstr ""
+
+#: member-access/includes/core/class-opt-in-payment.php:36
+msgid ""
+"Give access to a product to those who opt in by entering the Product ID."
+msgstr ""
+
+#: member-access/includes/core/class-opt-in-payment.php:38
+msgid "Product ID"
+msgstr ""
+
+#: member-access/includes/core/class-opt-in-payment.php:51
+msgid "No opt in gateways configured."
+msgstr ""
+
+#: member-access/includes/core/class-opt-in-payment.php:60
+msgid "Opt In Gateway"
+msgstr ""
+
+#: member-access/includes/core/class-opt-in-payment.php:62
+msgid "-- None --"
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:17
+#: member-access/includes/views/template-tags.php:135
+msgid "1. Create Your Account"
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:18
+msgid "1. Your Account"
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:19
+#: member-access/includes/views/template-tags.php:297
+msgid "2. Choose Payment Method"
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:20
+#: member-access/includes/views/template-tags.php:367
+msgid "3. Enter Credit Card Information"
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:21
+msgid "Complete Your Purchase"
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:22
+msgid "Create Account"
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:24
+msgid "Create Account and Complete Your Purchase"
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:57
+msgid "Welcome! You are now logged in!"
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:58
+msgid "You are already logged in"
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:89
+msgid "Logout"
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:111
+msgid "Lost Password?"
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:210
+#, php-format
+msgid "%d Days"
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:221
+#, php-format
+msgid "%d Payments"
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:309
+#: member-access/includes/views/shortcodes.php:318
+msgid "Your information has been updated."
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:312
+msgid "Passwords did not match. Your password was not changed."
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:315
+msgid "Email address already in use. Your email address was not changed."
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:321
+#, php-format
+msgid "Please <a href=\"%s\">Log in</a> to view your account."
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:327
+#: member-access/includes/views/template-tags.php:135
+msgid "Your Account"
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:394
+msgid "Lifetime"
+msgstr ""
+
+#: member-access/includes/views/shortcodes.php:414
+#, php-format
+msgid "<a href=\"%s\" %s>Cancel</a>"
+msgstr ""
+
+#: member-access/includes/views/template-tags.php:89
+msgid "Submit Order"
+msgstr ""
+
+#: member-access/includes/views/template-tags.php:89
+msgid "Submit Order and Create My Account"
+msgstr ""
+
+#: member-access/includes/views/template-tags.php:158
+msgid "sign in"
+msgstr ""
+
+#: member-access/includes/views/template-tags.php:183
+#, php-format
+msgid ""
+"Your user name and/or email address is already in use. If you already have "
+"an account with us please %s."
+msgstr ""
+
+#: member-access/includes/views/template-tags.php:193
+msgid ""
+"Changing your email address will log you out and you have to log in to "
+"continue to access your profile."
+msgstr ""
+
+#: member-access/includes/views/template-tags.php:223
+msgid "Re-enter Password"
+msgstr ""
+
+#: member-access/includes/views/template-tags.php:297
+msgid "2. Payment Method"
+msgstr ""
+
+#: member-access/includes/views/template-tags.php:386
+msgid "Name on Card"
+msgstr ""
+
+#: member-access/includes/views/template-tags.php:396
+msgid "Expiration Date"
+msgstr ""
+
+#: member-access/includes/views/template-tags.php:417
+msgid "Security Code"
+msgstr ""
+
+#: member-access/includes/views/template-tags.php:419
+msgid "The security code should be located on the back of your card."
+msgstr ""
+
+#: member-access/includes/views/template-tags.php:434
+msgid "ZIP/Postal Code"
+msgstr ""
+
+#: views/meta-boxes/page-types/content-scroller-controls.php:1
+msgid ""
+"<strong>Caution</strong>: Adding more tabs may cause the layout to break."
+msgstr ""
+
+#: views/meta-boxes/page-types/content-scroller-controls.php:4
+#: views/meta-boxes/page-types/pricing-controls.php:2
+msgid "Order:"
+msgstr ""
+
+#: views/meta-boxes/page-types/content-scroller-controls.php:5
+#: views/meta-boxes/page-types/pricing-controls.php:3
+msgid "Drag boxes below to reorder the panels on your page."
+msgstr ""
+
+#: views/meta-boxes/page-types/content-scroller-controls.php:15
+msgid "Add Another Tab"
+msgstr ""
+
+#: views/meta-boxes/page-types/content-scroller-controls.php:23
+msgid "Options:"
+msgstr ""
+
+#: views/meta-boxes/page-types/content-scroller-controls.php:24
+msgid "Show or hide tabs and navigation arrows."
+msgstr ""
+
+#: views/meta-boxes/page-types/content-scroller-controls.php:31
+msgid "Show Arrows and Tabs"
+msgstr ""
+
+#: views/meta-boxes/page-types/content-scroller-controls.php:37
+msgid "Just Show Tabs"
+msgstr ""
+
+#: views/meta-boxes/page-types/opt-in.php:1
+msgid "Copy that is displayed next to the opt in form."
+msgstr ""
+
+#: views/meta-boxes/page-types/opt-in.php:5
+#: views/meta-boxes/page-types/video.php:5
+msgid "Placement"
+msgstr ""
+
+#: views/meta-boxes/page-types/opt-in.php:6
+msgid "Where do you want your opt in form in relation to your copy?"
+msgstr ""
+
+#: views/meta-boxes/page-types/opt-in.php:12
+#: views/meta-boxes/page-types/video.php:12
+msgid "Left of Copy"
+msgstr ""
+
+#: views/meta-boxes/page-types/opt-in.php:19
+#: views/meta-boxes/page-types/video.php:26
+msgid "Right of Copy"
+msgstr ""
+
+#: views/meta-boxes/page-types/opt-in.php:29
+#, php-format
+msgid ""
+"You need to provide the code your mailing list provider supplied you with "
+"for this campaign.  Common mailing list providers are Constant Contact, "
+"Aweber and MailChimp.  <a class=\"thickbox\" href=\"%s\">Use the Premise opt "
+"in provider integration</a>."
+msgstr ""
+
+#: views/meta-boxes/page-types/pricing-content.php:1
+msgid "Above Pricing Table"
+msgstr ""
+
+#: views/meta-boxes/page-types/pricing-content.php:4
+msgid "Below Pricing Table"
+msgstr ""
+
+#: views/meta-boxes/page-types/pricing-controls.php:12
+msgid "Add Another Column"
+msgstr ""
+
+#: views/meta-boxes/page-types/pricing-controls.php:18
+msgid "Choose Bullet Type"
+msgstr ""
+
+#: views/meta-boxes/page-types/pricing-controls.php:22
+msgid "Marker"
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-after-a-share.php:2
+msgid ""
+"Enter the page elements and copy you want displayed after a read shares the "
+"page.  This is where you give them what you promised them for sharing the "
+"page."
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-sharing-options.php:3
+msgid "You have shared this page"
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-sharing-options.php:4
+#, php-format
+msgid "<a href=\"%s\">Clear my share history</a> for this page."
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-sharing-options.php:6
+msgid "You have not shared this page"
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-sharing-options.php:11
+msgid "Sharing Message"
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-sharing-options.php:12
+msgid ""
+"Enter a message that your users should see that prompts them to tweet or "
+"share your page to see the rest of the content. If you don't enter anything, "
+"a default message will be used."
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-sharing-options.php:18
+msgid "Share Text"
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-sharing-options.php:19
+msgid ""
+"Enter the text you would like to be used when sharing your page. If you "
+"don't enter anything, the title of the page will be used.  The URL to the "
+"page will always be appended where appropriate."
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-sharing-options.php:25
+msgid "Share Method"
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-sharing-options.php:27
+msgid "Twitter or Facebook"
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-sharing-options.php:28
+msgid "Facebook"
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-sharing-options.php:29
+msgid "Twitter"
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-sharing-options.php:34
+msgid "Twitter Icon"
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-sharing-options.php:35
+#, php-format
+msgid ""
+"Enter a URL that points at the share with Twitter button you want to use.  "
+"Leave this blank to use the default button. You can upload one via the <a "
+"class=\"thickbox\" href=\"%s\">WordPress uploader</a>."
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-sharing-options.php:41
+msgid "Facebook Icon"
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-sharing-options.php:42
+#, php-format
+msgid ""
+"Enter a URL that points at the share with Facebook button you want to use.  "
+"Leave this blank to use the default button. You can upload one via the <a "
+"class=\"thickbox\" href=\"%s\">WordPress uploader</a>."
+msgstr ""
+
+#: views/meta-boxes/page-types/social-share-teaser.php:2
+msgid ""
+"Enter the page elements and copy you want displayed before a reader shares "
+"the page.  This is your teaser page."
+msgstr ""
+
+#: views/meta-boxes/page-types/video.php:1
+msgid ""
+"Copy that is displayed next to the video (or leave blank for a centered "
+"video with no copy."
+msgstr ""
+
+#: views/meta-boxes/page-types/video.php:6
+msgid "Where do you want your video in relation to your copy?"
+msgstr ""
+
+#: views/meta-boxes/page-types/video.php:19
+msgid "Center No Copy"
+msgstr ""
+
+#: views/meta-boxes/page-types/video.php:35
+msgid "Video Box Image"
+msgstr ""
+
+#: views/meta-boxes/page-types/video.php:36
+msgid ""
+"Add the URL of an image to be placed in the video box as the link to the "
+"video lightbox.  These fields are required if you want the video to play in "
+"a lightbox and strongly recommended."
+msgstr ""
+
+#: views/meta-boxes/page-types/video.php:40
+msgid "Image URL"
+msgstr ""
+
+#: views/meta-boxes/page-types/video.php:43
+#, php-format
+msgid ""
+"If you don't have an image handy, upload one via the <a class=\"thickbox\" "
+"href=\"%s\">WordPress uploader</a>."
+msgstr ""
+
+#: views/meta-boxes/page-types/video.php:47
+msgid "Image Title"
+msgstr ""
+
+#: views/meta-boxes/page-types/video.php:57
+msgid "Video Embed Code"
+msgstr ""
+
+#: views/meta-boxes/page-types/video.php:58
+msgid ""
+"Add the embed code for your promotional video here.  Use any video provider "
+"you want, such as Youtube, Vimeo, or Ustream."
+msgstr ""

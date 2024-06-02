@@ -1,0 +1,625 @@
+.button-creation-form-table ul li label.descriptor {
+	display: block;
+	float: left;
+	padding: 5px 5px 0 0;
+	width: 100px;
+}
+
+.button-creation-form-table th {
+	width: 100px;
+}
+
+.premise-thickbox-container .form-table td input[type=password], 
+.premise-thickbox-container .form-table td input[type=text], 
+.premise-thickbox-container .form-table td select {
+	display: inline;
+	width: auto;
+}
+
+.premise-education-thickbox-container ul li {
+	list-style-type: square;
+	margin: 5px 0 5px 20px;
+}
+
+#premise-settings-header-line {
+	border-bottom: 1px solid #CCCCCC;
+	overflow: hidden;
+	padding-bottom: 0;
+}
+
+.premise-editor-toolbar {
+	height: 30px;
+}
+
+.premise-media-buttons {
+	cursor: default;
+	font-size: 13px;
+	padding: 8px 8px 0;
+}
+
+.premise-media-buttons a {
+    cursor: pointer;
+    padding: 0 0 5px 10px;
+}
+
+.premise-media-buttons img {
+	vertical-align: middle;
+}
+
+.premise-metaboxes {
+	width: 800px;
+}
+.premise-metaboxes .meta-box-sortables {
+	padding-right: 10px;
+}
+.premise-metaboxes .postbox .update-nag {
+	padding: 5px 10px;
+	text-align: left;
+}
+
+tr.send-to-premise-field { display: none; }
+
+a.send-to-premise-field { padding-left: 5px; }
+
+.premise-optin-provider-info {
+	display: none;
+}
+
+/** Top button on Settings Pages */
+.premise-h3-button {
+	margin-left: 200px;
+}
+/** Design Settings **/
+
+#design-settings input {
+    margin-left: 5px;
+}
+#design-settings input.numeric {
+    text-align: center;
+}
+#design-settings input.checkbox,
+#design-settings input[type=checkbox] {
+    margin-left: 0;
+    margin-right: 5px;
+}
+#design-settings select {
+    margin-left: 5px;
+    padding: 3px;
+}
+#design-settings option {
+    padding-right: 10px;
+}
+#design-settings span.description strong {
+    text-transform: uppercase;
+}
+#design-settings form {
+    margin: 1em 0;
+}
+#design-settings .inside { padding: 10px; }
+
+/** Editor Stuff **/
+
+#poststuff .inside {
+	margin: 10px 0;
+}
+#content-scroller-size-warning {
+	background: #ffffcc; 
+	border: 1px solid #dfdfdf; 
+	display: none; 
+	line-height: 1.5;
+	padding: 10px; 
+}
+
+.premise-editor-toolbar {
+	height: 30px;
+}
+
+.premise-editor-toolbar-button {
+	background-color: #F1F1F1;
+	border-color: #DFDFDF;
+	color: #999999;
+	height: 18px;
+	font-size: 13px;
+	line-height: 18.2px;
+	margin: 5px 5px 0 0;
+	padding: 4px 5px 2px;
+	float: right;
+	cursor: pointer;
+	border-width: 1px;
+	border-style: solid;
+	-moz-border-radius: 3px 3px 0 0;
+	-webkit-border-top-right-radius: 3px;
+	-webkit-border-top-left-radius: 3px;
+	-khtml-border-top-right-radius: 3px;
+	-khtml-border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	border-top-left-radius: 3px;
+}
+
+.premise-editor-button-html {
+	margin-right: 15px;
+}
+
+.premise-editor-toolbar-button.active {
+	background-color: #E9E9E9;
+	border-bottom-color: #E9E9E9;
+	color: #333333;
+}
+
+.premise-editor-area {
+	margin-bottom: 10px;
+}
+
+.premise-editor-area .wp_themeSkin .mceStatusBar a.mceResize {
+	top: 0;
+}
+
+.premise-editor-area textarea {
+	border: 0 none;
+	line-height: 150%;
+	margin: 0;
+	outline: none;
+	padding: 6px;
+	resize: vertical;
+	width: 100%;
+	
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-khtml-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.premise-editor-container,
+.premise-editor-quicktags {
+	border-color: #DFDFDF;
+	border-style: solid;
+	border-width: 1px;
+	border-collapse: separate;
+	-moz-border-radius: 6px 6px 0 0;
+	-webkit-border-top-right-radius: 6px;
+	-webkit-border-top-left-radius: 6px;
+	-khtml-border-top-right-radius: 6px;
+	-khtml-border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	border-top-left-radius: 6px;
+}
+
+.premise-editor-quicktags {
+	padding: 0;
+	margin-bottom: -3px;
+	border-bottom-width: 3px;
+	background-image: url("./images/ed-bg.gif");
+	background-position: left top;
+	background-repeat: repeat-x;
+}
+
+.premise-editor-quicktags .premise-editor-quicktags-toolbar {
+	padding: 2px 4px 0;
+}
+
+.premise-editor-quicktags-toolbar input {
+	background: url("./fade-butt.png") repeat-x scroll 0 -2px #FFFFFF;
+	border-color: #C3C3C3;
+	margin: 3px 1px 4px;
+	line-height: 18px;
+	display: inline-block;
+	min-width: 26px;
+	padding: 2px 4px;
+	font-size: 12px;
+}
+
+.premise-editor-quicktags-toolbar .premise_editor_quicktags_link {
+	text-decoration: underline;
+}
+
+.premise-editor-quicktags-toolbar .premise_editor_quicktags_del {
+	text-decoration: line-through;
+}
+
+.premise-editor-quicktags-toolbar .premise_editor_quicktags_em {
+	font-style: italic;
+}
+
+/** Content Scroller Reordering **/
+
+#premise-content-scroller-settings {
+	margin: 0 6px;
+}
+
+#poststuff p#premise-content-scroller-settings-divider {
+	border-bottom: 1px solid #eeeeee;
+	margin: 0 0 8px; 
+	padding: 12px 6px 0;
+}
+
+#premise-content-scrollers-order-container, #premise-pricing-order-container {
+	margin: 0 6px;
+	padding: 10px 0;
+}
+
+.premise-content-scrollers-order-item {
+	background: #e4e4e4;
+	border: 1px solid #d2d2d2;
+	color: #666666;
+	font-size: 12px;
+	padding: 5px;
+}
+
+
+/** Pinning **/
+
+#premise-assistant-image {
+	display: none;
+}
+
+#premise-assistant-pin {
+	background: transparent url(images/pin-icon-desat.png) no-repeat center center;
+	float: right;
+	height: 26px;
+	width: 35px;
+}
+
+#premise-assistant-pin.pinned {
+	background-image: url(images/pin-icon.png);
+}
+
+/** Subheading **/
+
+#subheadingwrap {
+	display: none;
+	margin-top: 10px;
+}
+
+#subheadingwrap #premise-subhead {
+	background: #ffffff;
+}
+
+#poststuff #subheadingwrap {
+	border: 0;
+	padding: 0;
+}
+
+#subheadingwrap #premise-subhead {
+	padding: 3px 4px;
+	border-width: 1px;
+	border-style: solid;
+	-moz-border-radius: 6px;
+	-khtml-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	font-size: 1.7em;
+	line-height: 100%;
+	width: 100%;
+	outline: none;
+}
+
+#titlediv #subheading-prompt-text {
+	color: #bbb;
+	position: absolute;
+	font-size: 1.7em;
+	padding: 8px;
+	visibility: hidden;
+}
+
+/** CSS for Premise Landing Pages **/
+#icon-premise-main,
+#icon-premise-seo,
+#icon-premise-tracking,
+#icon-premise-skins
+	{
+	background: transparent url(images/premise-logo-sm.png) no-repeat scroll center
+		center;
+		width: 170px;
+		height: 50px;
+}
+
+h2#premise-settings-header-line {
+	margin-left: 20px;	
+}
+
+/** Dropdown Toggle Thingy **/ /* favorite-actions */
+#premise-education-actions {
+	margin: 0 auto;
+	width: 200px;
+	position: relative;
+}
+
+#premise-education-first {
+	-moz-border-radius: 12px;
+	-khtml-border-radius: 12px;
+	-webkit-border-radius: 12px;
+	border-radius: 12px;
+	line-height: 15px;
+	padding: 3px 30px 4px 12px;
+	border-width: 1px;
+	border-style: solid;
+}
+
+#premise-education-inside {
+	margin: 0 0 0 0px;
+	padding: 2px 1px;
+	border-width: 1px;
+	border-style: solid;
+	position: absolute;
+	z-index: 11;
+	display: none;
+	-moz-border-radius: 0 0 12px 12px;
+	-webkit-border-bottom-right-radius: 12px;
+	-webkit-border-bottom-left-radius: 12px;
+	-khtml-border-bottom-right-radius: 12px;
+	-khtml-border-bottom-left-radius: 12px;
+	border-bottom-right-radius: 12px;
+	border-bottom-left-radius: 12px;
+}
+
+#premise-education-actions a {
+	display: block;
+	text-decoration: none;
+	font-size: 11px;
+}
+
+#premise-education-inside a {
+	padding: 3px 10px 10px;
+}
+
+#premise-education-toggle {
+	height: 22px;
+	position: absolute;
+	right: 0;
+	top: 1px;
+	width: 28px;
+}
+
+#premise-education-actions .slide-down {
+	-moz-border-radius: 12px 12px 0 0;
+	-webkit-border-bottom-right-radius: 0;
+	-webkit-border-bottom-left-radius: 0;
+	-khtml-border-bottom-right-radius: 0;
+	-khtml-border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+	border-bottom-left-radius: 0;
+	border-bottom: none;
+}
+
+#premise-education-first {
+	background: #5580a6 url(./images/fav-vs.png) repeat-x 0 center;
+	border-color: #517ea5 !important;
+	border-bottom-color: #416686 !important;
+}
+
+#premise-education-actions .slide-down {
+	background-image: url(../images/fav-top-vs.gif);
+	background-position: 0 0;
+	background-repeat: repeat-x;
+}
+
+#premise-education-inside {
+	border-color: #5b86ac;
+	background-color: #5580a6;
+}
+
+#premise-education-toggle {
+	background: transparent url(./images/fav-arrow-vs.gif) no-repeat 0 -4px;
+}
+
+#premise-education-actions a {
+	color: #ddd;
+}
+
+#premise-education-actions a:hover {
+	color: #fff;
+}
+
+#premise-education-inside a:hover {
+	text-decoration: underline;
+}
+
+#premise-education-actions .slide-down {
+	border-bottom-color: #626262;
+}
+
+/** Meta Boxes **/
+#premise-video-placement-choices {
+	margin: 10px 0;
+	width: 405px;
+}
+
+#premise-video-placement-choices li {
+	float: left;
+	text-align: center;
+	width: 130px;
+}
+
+.premise-option-box {
+	border: 1px solid #dfdfdf;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+.premise-option-box h4 {
+	margin-top: 0;
+	margin-bottom: 6px;
+}
+
+#poststuff .premise-option-box p {
+	margin: 6px 0;
+}
+
+.premise-dependent-container {
+	margin-top: 16px;
+}
+
+.premise-dependent-container h4 {
+	
+}
+
+.premise-character-count {
+	background: #339933;
+	color: #ffffff;
+	padding: 1px 3px;
+}
+
+.premise-character-count.exceeds {
+	background: #ff0303;
+}
+
+ul#premise-landing-page-choice {
+	margin-left: 25px;
+}
+
+ul#premise-landing-page-choice li {
+	color: #555;
+	list-style: square;
+	margin: 15px 0 0 15px;
+}
+
+ul#premise-landing-page-choice li a {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.premise-content-scrollers-delete-tab, .premise-pricing-delete-column, .remove-attribute-from-pricing-column {
+	color: #f00;
+	border-bottom-color: #f00;
+	padding: 2px 3px;
+}
+
+.premise-content-scrollers-delete-tab:hover {
+	color: #fff;
+	background-color: #f00;
+	border-bottom-color: #f00;
+}
+
+/** Pricing Page **/
+
+#poststuff .premise-pricing-attribute-input {
+	margin-left: 10px;
+	width: 490px;
+}
+
+.premise-pricing-attribute-handle {
+	background: transparent url(./images/attribute-move-handle.png) no-repeat center center;
+	display: block;
+	float: left;
+	height: 20px;
+	width: 20px;
+}
+
+/** Admin Styles **/
+#premise-container {
+	margin-top: 40px;
+}
+
+#premise-admin-header {
+	background: transparent url(images/premise-admin-header-background.gif)
+		repeat-x top left;
+	height: 80px;
+	position: relative;
+}
+
+#premise-admin-header h1 {
+	background: transparent url(images/premise-admin-logo.png) no-repeat
+		center center;
+	color: #ffffff;
+	margin: 0;
+	text-indent: -99999px;
+	width: 248px;
+	position: absolute;
+	left: 16px;
+	top: 0;
+	bottom: 0;
+}
+
+#premise-header-extra {
+	background: transparent url(images/premise-admin-header-bottom.png)
+		repeat-x top left;
+	border-left: 1px solid #cccccc;
+	border-right: 1px solid #cccccc;
+	height: 41px;
+}
+
+#premise-tabs {
+	position: absolute;
+	bottom: 0;
+	right: 16px;
+}
+
+#premise-tabs li {
+	display: block;
+	float: left;
+	margin: 0 2px 0 0;
+}
+
+#premise-tabs li span {
+	background: transparent url(images/premise-inactive-tab-right.png)
+		no-repeat top right;
+	display: block;
+	padding-right: 7px;
+}
+
+#premise-tabs li span a {
+	background: transparent url(images/premise-inactive-tab-left.png)
+		no-repeat top left;
+	color: #ffffff;
+	display: block;
+	font-weight: bold;
+	height: 36px;
+	line-height: 36px;
+	padding: 0 17px 0 24px;
+	text-decoration: none;
+}
+
+#premise-tabs li a:hover {
+	text-decoration: underline;
+}
+
+#premise-tabs li.active span {
+	background-image: url(images/premise-active-tab-right.png);
+}
+
+#premise-tabs li.active span a {
+	background-image: url(images/premise-active-tab-left.png);
+	color: #333333;
+}
+
+#premise-content {
+}
+
+/** Thickboxes **/
+.premise-thickbox-container {
+	padding: 10px;
+}
+
+#premise-search-graphics-category option {
+	padding: 0 3px;
+}
+
+/** Member Access */
+.premise-metaboxes #icon-options-general,
+#icon-premise-member,
+#icon-premise-reports,
+#icon-edit.icon32-posts-acp-products {
+	background: url(images/icon-32x32.png) no-repeat;
+}
+.premise-metaboxes input[type=submit],
+.member-access_page_premise-reports input[type=submit] {
+	margin-left: 10px;
+}
+.premise-report-table tr.alt {
+	background: #f1f1f1;
+}
+.premise-report-table tr.total {
+	font-weight: bold;
+	margin: 5px 0px;
+}
+.premise-report-table td {
+	padding: 2px 10px;
+}
+.premise-product-receipt-preview {
+	background: #fff;
+	border: 1px solid #f00;
+	padding: 10px;
+}
+.premise_links_new_file_wrap {
+	display: none;
+}
